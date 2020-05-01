@@ -1,0 +1,258 @@
+{
+  "_id": "MjEwN2Y5NjI2MDI3",
+  "name": "Magic-Item-Table-D",
+  "sort": 180000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "MmIwOGMzOWU1ZmFh",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Health, Supreme",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 20,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjEyMzI5MzQ3NGFi",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Invisibility",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 10,
+      "range": [
+        21,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTM1NTY5OGI2Mzc3",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Speed <%%91%%>Yellow fluid with dark, almost black swirls that ripple constantly through the fluid.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 10,
+      "range": [
+        31,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTBkY2VhZjYyOWRm",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (6th Level)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 10,
+      "range": [
+        41,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODVmYjg4NDc1MDJj",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (7th Level)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 7,
+      "range": [
+        51,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDVlZjg4OTU5OGFi",
+      "flags": {},
+      "type": 0,
+      "text": "Ammunition +3",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        58,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTg4MTIzNjRlNzM1",
+      "flags": {},
+      "type": 0,
+      "text": "Oil of Sharpness",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        63,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjI0MThlMDBkYTdj",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Flying <%%91%%>a bottle of clear liquid, that with examination isn't full, but rather the liquid defies gravity, though at time cloudy white impurities float through the liquid<%%93%%>",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        68,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmU3NDZmMzRmMzUx",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Cloud Giant Strength <%%91%%>Transparent liquid with a crescent sliver floating inside of it)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        73,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmFjZmViYTljN2Yx",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Longevity <%%91%%>Amber liquid with a sliver of bone, perhaps a tooth? a dead spider",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        78,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTU2YjYwZDgwZWY0",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Vitality <%%91%%>crimson liquid that regularly pulses, almost like a heartbeat<%%93%%>",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        83,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDE4MjY4YjUwYzhi",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (8th Level)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        88,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjY2NjE1MGM3MmVk",
+      "flags": {},
+      "type": 0,
+      "text": "Horseshoes of a Zephyr",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        93,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzI2MGU3NGY2MmZh",
+      "flags": {},
+      "type": 0,
+      "text": "Nolzur's Marvelous Pigments",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        96,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTk1NWY2ZWY3N2Qy",
+      "flags": {},
+      "type": 0,
+      "text": "Bag of Devouring",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2EwYmE4NzMwZmM3",
+      "flags": {},
+      "type": 0,
+      "text": "Portable Hole",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d99",
+  "replacement": true,
+  "displayRoll": false
+}

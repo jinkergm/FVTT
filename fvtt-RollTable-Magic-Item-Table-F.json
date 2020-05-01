@@ -1,0 +1,873 @@
+{
+  "_id": "YzMzMmM5ODE2Y2Qx",
+  "name": "Magic-Item-Table-F",
+  "sort": 200000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "NDFjZDAxM2I1MjAw",
+      "flags": {},
+      "type": 0,
+      "text": "Weapon, +1 (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 15,
+      "range": [
+        1,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDNjZjliZDM4MGJk",
+      "flags": {},
+      "type": 0,
+      "text": "Shield, +1 (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        16,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTVhM2ViNzExNDQ2",
+      "flags": {},
+      "type": 0,
+      "text": "Sentinel Shield (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        19,
+        21
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWUxMWU2MmFkZTE2",
+      "flags": {},
+      "type": 0,
+      "text": "Amulet of proof against detection and location (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        22,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWViMDljODhiMzdj",
+      "flags": {},
+      "type": 0,
+      "text": "Boots of elvenkind (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        24,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjI0YTM4MWU3ZmRj",
+      "flags": {},
+      "type": 0,
+      "text": "Boots of striding and springing (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        26,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWFkNWIzMzNlMjMw",
+      "flags": {},
+      "type": 0,
+      "text": "Bracers of archery (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        28,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjQ3NTQyNDFiM2E1",
+      "flags": {},
+      "type": 0,
+      "text": "Brooch of shielding (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        30,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjBiN2VhZjNlZmU1",
+      "flags": {},
+      "type": 0,
+      "text": "Broom of flying (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        32,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDUxNTQwYjcwZjRl",
+      "flags": {},
+      "type": 0,
+      "text": "Cloak of elvenkind (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        34,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWYyY2Q3MWVjYjE2",
+      "flags": {},
+      "type": 0,
+      "text": "Cloak of protection (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        36,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODY3ZTM0NDQxMzUy",
+      "flags": {},
+      "type": 0,
+      "text": "Gauntlets of ogre power (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        38,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWFmOTdlNjFmNzU3",
+      "flags": {},
+      "type": 0,
+      "text": "Hat of disguise (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        40,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTg3MWI5NjQwMWI3",
+      "flags": {},
+      "type": 0,
+      "text": "Javelin of lightning (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        42,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Yzg3NTFkZmJmMmJi",
+      "flags": {},
+      "type": 0,
+      "text": "Pearl of power (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        44,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWUyM2U2ZjI1ODRj",
+      "flags": {},
+      "type": 0,
+      "text": "Rod of the pact keeper, +1 (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        46,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDhkNzA5MGZlNzY5",
+      "flags": {},
+      "type": 0,
+      "text": "Slippers of spider climbing (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        48,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzlmMGRmYWQxNzI1",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of the adder (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        50,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWMzZDE1NDUxYTc0",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of the python (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        52,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWVjNGQzOTNkYzRk",
+      "flags": {},
+      "type": 0,
+      "text": "Sword of vengeance (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        54,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGFlMmVkOWRlNWNh",
+      "flags": {},
+      "type": 0,
+      "text": "Trident of fish command (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        56,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWNmYmQwZWJhNWZl",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of magic missiles (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        58,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmNjOTkxY2E0MjVk",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of the war mage, +1 (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        60,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTBiOTk4NGFhZmEw",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of web (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        62,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDVhZDQxOGY3Zjgx",
+      "flags": {},
+      "type": 0,
+      "text": "Weapon of warning (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        64,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDRkYTBhYTg4M2Mz",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine armor (chain mail) (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWM4ODVhOTlmMTE2",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine armor (chain shirt) (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDQwYzU5OGQ2YTE5",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine armor (scale mail) (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjRhYTc3MzkzYzlj",
+      "flags": {},
+      "type": 0,
+      "text": "Rust bag of tricks (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDFlMzdjYWQ0NDc0",
+      "flags": {},
+      "type": 0,
+      "text": "Tan bag of tricks (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmU0YzY3YTE4OTU5",
+      "flags": {},
+      "type": 0,
+      "text": "Boots of the winterlands (u)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmI4MGFkOWM0NmRi",
+      "flags": {},
+      "type": 0,
+      "text": "Circlet of blasting (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWM3NmFlYzEyNmNl",
+      "flags": {},
+      "type": 0,
+      "text": "Deck of illusions (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWIyOWI1ZGRlMWRj",
+      "flags": {},
+      "type": 0,
+      "text": "Eversmoking bottle (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTllMmVjODM4Zjdl",
+      "flags": {},
+      "type": 0,
+      "text": "Eyes of charming (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2FjMDNmYmZkMzgz",
+      "flags": {},
+      "type": 0,
+      "text": "Eyes of the eagle (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWRhZjQ2MDYwNzNk",
+      "flags": {},
+      "type": 0,
+      "text": "Figurine of wondrous power, silver raven (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWI2YjA3ZjViYmFm",
+      "flags": {},
+      "type": 0,
+      "text": "Gem of brightness (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGNjZDAyNzQ3NmM2",
+      "flags": {},
+      "type": 0,
+      "text": "Gloves of missile snaring (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDIzYTM0OGEzNDJi",
+      "flags": {},
+      "type": 0,
+      "text": "Headband of intellect (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmE3ZTMyNWU5MTQx",
+      "flags": {},
+      "type": 0,
+      "text": "Helm of telepathy (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzFmZDk0NGNjMmQ4",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the bards (doss lute) (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjViOTMwZmJjMWVh",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the bards (Fochlucan bandore) (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGNlMjE1MmRjZWFj",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the bards (Mac-Fuimidh cittern) (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTE4MTY0YmY1MzVj",
+      "flags": {},
+      "type": 0,
+      "text": "Medallion of thoughts (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTViZDgyZmVhOTll",
+      "flags": {},
+      "type": 0,
+      "text": "Necklace of adaptation (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTZkMTExYTBjOGQ0",
+      "flags": {},
+      "type": 0,
+      "text": "Periapt of wound closure (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDJlYmMxYmI1MmY0",
+      "flags": {},
+      "type": 0,
+      "text": "Pipes of haunting (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mjk4M2U3ODMwN2M3",
+      "flags": {},
+      "type": 0,
+      "text": "Pipes of the sewers (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzgzNzc5MjI0ZTAz",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of jumping (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDdiMTdmY2JlOTQ1",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of mind shielding (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODA4MWZmOGJjZWFh",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of warmth (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTM2YTMzMzA2OWFi",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of water walking (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODJjN2Y0MDhhOTgw",
+      "flags": {},
+      "type": 0,
+      "text": "Quiver of Ehlonna (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjI3ZjUyZmU4ZDU4",
+      "flags": {},
+      "type": 0,
+      "text": "Stone of good luck (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzdiYzQ0NWI4MGNh",
+      "flags": {},
+      "type": 0,
+      "text": "Wind fan (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2Q3YjVjNWY5Y2Qx",
+      "flags": {},
+      "type": 0,
+      "text": "Winged boots (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d97",
+  "replacement": true,
+  "displayRoll": false
+}

@@ -1,0 +1,318 @@
+{
+  "_id": "NDc4YjIwNDVjMjI1",
+  "name": "Fumble",
+  "sort": 0,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "ODdjMTZkODZkYmFh",
+      "flags": {},
+      "type": 0,
+      "text": "Slipped. You must make a successful DC 10 DEX Save or immediately fall prone.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTNiZmI3MDZiNjZl",
+      "flags": {},
+      "type": 0,
+      "text": "Pulled up lame. You must make a successful DC 10 CON save or your speed is halved until the end of the encounter..",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        6,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTliMWRjNThlNzdj",
+      "flags": {},
+      "type": 0,
+      "text": "Wicked backswing. You strike yourself slightly on your backswing and take 1d8 damage.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        11,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDdmZDlkN2Q1YWEw",
+      "flags": {},
+      "type": 0,
+      "text": "Wind knocked out of you. You become exhausted to level 1 of that condition. ",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        16,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTk5MWU2Mjg1ZTk4",
+      "flags": {},
+      "type": 0,
+      "text": "Shook yourself up. You are stunned for 1 rd. ",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        21,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjE3MzZjODE4ZTgz",
+      "flags": {},
+      "type": 0,
+      "text": "Give them hope. Your target’s allies within 30 feet gain a d6 inspiration die that can be used during this encounter.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        26,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzQzZTEzMThmNWMz",
+      "flags": {},
+      "type": 0,
+      "text": "Dropped weapon. Your drop your weapon and it falls 10’ from your location in a random direction.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        31,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjczZTY0ZDc0ZDQ5",
+      "flags": {},
+      "type": 0,
+      "text": "Discombobulated. You become incapacitated for 1 rd.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        36,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDk5Njg0YjIyZTA1",
+      "flags": {},
+      "type": 0,
+      "text": "Bad timing. You drop to last in the imitative order for the combat but do not act again this turn.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        41,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjI4ZDFiNDI2ODNl",
+      "flags": {},
+      "type": 0,
+      "text": "Broken bone.  You break a bone in your hand. You suffer disadvantage for the rest of the encounter and take 1d6 damage every rd. until healed.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        46,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGNkY2VjZGUwNTI0",
+      "flags": {},
+      "type": 0,
+      "text": "Exposed defenses. Your swing unbalances you so much that your target may take one melee attack against you as a reaction.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        51,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTUyNzJhOWMyODU2",
+      "flags": {},
+      "type": 0,
+      "text": "Your own worst enemy. You suffer the effects of a bane spell for the remainder of the encounter.  ",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        56,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjZkZmJhNDI4MDY2",
+      "flags": {},
+      "type": 0,
+      "text": "Costly mistake. Your target may reroll all 1s and 2s on the damage roll for his next successful melee attack vs. you.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        61,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjBiNzVjMGQ1NDJl",
+      "flags": {},
+      "type": 0,
+      "text": "Revealed intentions. You and your allies all suffer disadvantage for your next attack.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        66,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGIzNTM2YzZlYjZk",
+      "flags": {},
+      "type": 0,
+      "text": "Lodged weapon.  Your weapon becomes stuck in the floor or a nearby object. You must make a DC 14 STR check to remove it as an action.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        71,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2U0OTIxZDU1NTI3",
+      "flags": {},
+      "type": 0,
+      "text": "Devastating error. As a free action your opponent may immediately make one melee attack with advantage against you as a reaction.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        76,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmU2NTg0NGQ4NTky",
+      "flags": {},
+      "type": 0,
+      "text": "Thrown weapon. You lose your grip and throw your weapon. It lands 30’ from your location in a random direction.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        81,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzI5NmViN2I2MDM5",
+      "flags": {},
+      "type": 0,
+      "text": "Panic attack.  You immediately suffer the effects of the Confusion spell for 1 rd.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzRjZWU0ZjhlNGI4",
+      "flags": {},
+      "type": 0,
+      "text": "Self-inflicted wound.  Your attack ricochets back and you hit yourself. Roll your damage as if you had hit your target and apply it to yourself.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGRhODI0NDM3NjJh",
+      "flags": {},
+      "type": 0,
+      "text": "Did you see that?  Your attack ricochets back and you hit yourself. Apply the maximum damage to yourself as if you had hit your target.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false
+}

@@ -1,0 +1,783 @@
+{
+  "_id": "MTQ2ODI5MmFkNjk3",
+  "name": "Magic-Item-Table-I",
+  "sort": 220000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "MDg3N2JkMGJjODYz",
+      "flags": {},
+      "type": 0,
+      "text": "Defender",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWE1MTRmOWNiZDYy",
+      "flags": {},
+      "type": 0,
+      "text": "Hammer of Thunderbolts",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        6,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmM5YjAyMjg4MWNm",
+      "flags": {},
+      "type": 0,
+      "text": "Luck Blade",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        11,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjBjYjgyNWQ4ZDQx",
+      "flags": {},
+      "type": 0,
+      "text": "Sword of Answering",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        16,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzNhNDRiNTI3MzAx",
+      "flags": {},
+      "type": 0,
+      "text": "Holy Avenger",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        21,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzVkNjRlZDkyOGRl",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Djinni Summoning",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        24,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTk0NDMyZGI1ZDFh",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Spell Turning",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        27,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTc4MWYxZDE0NDlm",
+      "flags": {},
+      "type": 0,
+      "text": "Rod of Lordly Might",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        30,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjljY2YwMTk1ZTgz",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of the Magi",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        33,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjA0NzczY2Q2MGMy",
+      "flags": {},
+      "type": 0,
+      "text": "Vorpal Sword",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        36,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjRjMjlhY2UxY2Y1",
+      "flags": {},
+      "type": 0,
+      "text": "Belt of Cloud Giant Strength",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        39,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTQzYzM0ZjdlYWMz",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +2, Breastplate",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        41,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGRhMzkyOGIyNTkw",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +3, Chain Mail",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        43,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjM5MTAyY2I0ZWE0",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +3, Chain shirt",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        45,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTM1YmNkM2EwZmYw",
+      "flags": {},
+      "type": 0,
+      "text": "Cloak of Invisibility",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        47,
+        48
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzY0Y2NjMjRlOGE4",
+      "flags": {},
+      "type": 0,
+      "text": "Crystal ball (Legendary Version)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        49,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTNiNzU4Njk1OTEx",
+      "flags": {},
+      "type": 0,
+      "text": "Armor, +1 Half Plate",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        51,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWZjNzU0N2YxODQ1",
+      "flags": {},
+      "type": 0,
+      "text": "Iron Flask",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        53,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDZkOTdjYmMxNjMy",
+      "flags": {},
+      "type": 0,
+      "text": "Armor, +3 Leather",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        55,
+        56
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjdjYzUxMjBiZGRk",
+      "flags": {},
+      "type": 0,
+      "text": "Armor, +1 Plate",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        57,
+        58
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTA2Y2ZjYzA0YWEy",
+      "flags": {},
+      "type": 0,
+      "text": "Robe of the Archmagi",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        59,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmQ5YzgyNTYzNWQz",
+      "flags": {},
+      "type": 0,
+      "text": "Rod of Resurrection",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        61,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjZjYzM0YjlhMmUx",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +1, scale mail",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        63,
+        64
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGRkZTZhOTc4N2Vh",
+      "flags": {},
+      "type": 0,
+      "text": "Scarab of Protection",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        65,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGI3Mjk4ZTZkZmVm",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +2, Splint",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        67,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjZiODgxYTUyNTQy",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +2, Studded Leather",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        69,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTU5MmIxYjU2MmFl",
+      "flags": {},
+      "type": 0,
+      "text": "Well of Many Worlds",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        71,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2Y4ZDQ4YTE4OGE1",
+      "flags": {},
+      "type": 0,
+      "text": "Magic Armor (roll DMG_MagicArmor table)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmNmMjhhYzk2Y2Zi",
+      "flags": {},
+      "type": 0,
+      "text": "Apparatus of Kwalish",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmE5N2Q0ZGY5MjZk",
+      "flags": {},
+      "type": 0,
+      "text": "Armor of Invulnerability",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTk2OTZkYzE4NTJh",
+      "flags": {},
+      "type": 0,
+      "text": "Belt of Storm Giant Strength",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGUzNmJkNmEyZjc3",
+      "flags": {},
+      "type": 0,
+      "text": "Cubic Gate",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDliMTY2ZGMwMzM4",
+      "flags": {},
+      "type": 0,
+      "text": "Deck of Many Things",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTBiMTAwODI2MjEw",
+      "flags": {},
+      "type": 0,
+      "text": "Efreeti Chain",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGFjMGQwZjkzMjg5",
+      "flags": {},
+      "type": 0,
+      "text": "Armor of Resistance (half plate)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzRiZmRjMTg4ZjMx",
+      "flags": {},
+      "type": 0,
+      "text": "Horn of Valhalla (iron)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWQzODdkOWRlMTAy",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the bards (Ollamh Harp)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWVkOTg1OTUxYWQ3",
+      "flags": {},
+      "type": 0,
+      "text": "Ioun Stone (Greater Absorption) <%%91%%>Roll on the IounStone table<%%93%%>",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDUyYWZhY2VhM2Uy",
+      "flags": {},
+      "type": 0,
+      "text": "Ioun Stone (Mastery) <%%91%%>Roll on the IounStone table<%%93%%>",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjE2ZTM5YTdkMWQ3",
+      "flags": {},
+      "type": 0,
+      "text": "Ioun Stone (Regeneration) <%%91%%>Roll on the IounStone table<%%93%%>",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmY2OWExYmM3MDhk",
+      "flags": {},
+      "type": 0,
+      "text": "Plate Armor of Etherealness",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTRhMjk3MTJiNWFj",
+      "flags": {},
+      "type": 0,
+      "text": "Plate Armor of Resistance",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTY4ZmJmNzUwOWZj",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Elemental Command (Air)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGNhYTVlYzM3ZDc4",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Elemental Command (Earth)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODQ0ZDM5ZWFmZWVh",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Elemental Command (Fire)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODgxMWU4MTBmYTk1",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Elemental Command (Water)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzFkNTM3MTNiNGMz",
+      "flags": {},
+      "type": 0,
+      "text": "Sphere of Annihilation",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjBmMjU2YTFhNjZk",
+      "flags": {},
+      "type": 0,
+      "text": "Talisman of Pure Good",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Nzk5MjFhZWQ0MTVl",
+      "flags": {},
+      "type": 0,
+      "text": "Talisman of the Sphere",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWQzYjBjZjMyYTM4",
+      "flags": {},
+      "type": 0,
+      "text": "Talisman of Ultimate Evil",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzJhNjY1YTJmOGVl",
+      "flags": {},
+      "type": 0,
+      "text": "Tome of the Stilled Tongue",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d96",
+  "replacement": true,
+  "displayRoll": false
+}

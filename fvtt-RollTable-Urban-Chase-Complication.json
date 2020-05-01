@@ -1,0 +1,183 @@
+{
+  "_id": "NGUwYTNmNDdkNjE0",
+  "name": "Urban-Chase-Complication",
+  "sort": 250000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "Yjk5OTZiYjY2MWQ3",
+      "flags": {},
+      "type": 0,
+      "text": "A large obstacle such as a horse or cart blocks your way. Make a DC 15 Dexterity (Acrobatics) check to get past the obstacle. On a failed check, the obstacle counts at 10 feet of difficult terrain.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTQ3YjM0ODFhMjFl",
+      "flags": {},
+      "type": 0,
+      "text": "A crowd blocks your way. Make a DC 10 Strength (Athletics) or Dexterity (Acrobatics) check (your choice) to make your way through the crowd unimpeded. On a failed check, the crowd counts as 10 feet of difficult terrain.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODNiMDc4ZmE5MmM3",
+      "flags": {},
+      "type": 0,
+      "text": "A large stained-glass windows or similar barrier blocks your path. Make a DC 10 Strength saving throw to smash through the barrier and keep going. On a failed save, you bounce off the barrier and fall prone.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzIyMmIyMjY0YzU3",
+      "flags": {},
+      "type": 0,
+      "text": "A maze of barrels, crates, or similar obstacles stands in your way. Make a DC 10 Dexterity (Acrobatics) or Intelligent check (your choice) to navigate the maze. On a failed check, the maze counts as 10 feet of difficult terrain.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGZiODYxNmQwYzFk",
+      "flags": {},
+      "type": 0,
+      "text": "The ground beneath your feet is slippery with rain, spilled oil, or some other liquid. Make a DC 10 Dexterity saving throw. On a failed save, you fall prone.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDE4MzFlOWMyZDYw",
+      "flags": {},
+      "type": 0,
+      "text": "You come upon a pack of dogs fighting over food. Make a DC 10 Dexterity (Acrobatics) check to get through the pack unimpeded. On a failed check, you are bitten and take d4 piercing damage, and the dogs count as 5 feet of difficult terrain.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjQxM2Y3ZDM1ODQ2",
+      "flags": {},
+      "type": 0,
+      "text": "You run into a brawl in progress. Make a DC 15 Strength (Athletics), Dexterity (Acrobatics), or Charisma (Intimidation) check (your choice) to slip past the the beggar. You succeed automatically if you toss the beggar a coin. On a failed check, the beggar counts as 5 feet of difficult terrain.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWE5YTYwODFlNTlj",
+      "flags": {},
+      "type": 0,
+      "text": "An over zealous guard (see MM for game stats) mistakes you for someone else. If you move 20 feet or more on your turn, the guard makes an opportunity attack against you with a spear (+3 to hit; d6+1 piercing damage to hit).",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGJjYWFiNGU5YWFl",
+      "flags": {},
+      "type": 0,
+      "text": "You are forced to make a sharp turn to avoid colliding with something impassible. Make a DC 10 Dexterity saving throw to navigate the turn. One a failed save, you collide with something hard and take d4 bludgeoning damage.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzRlMDMxYTAxZTVj",
+      "flags": {},
+      "type": 0,
+      "text": "No complication.",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 10,
+      "range": [
+        10,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDMwZmVjNzEyNzEy",
+      "flags": {},
+      "type": 0,
+      "text": "Gain d10 feet on the subject(s)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": false
+}

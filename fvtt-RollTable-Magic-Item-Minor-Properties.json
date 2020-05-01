@@ -1,0 +1,2595 @@
+{
+  "_id": "MjBmNDUzYjA4OTM1",
+  "name": "Magic-Item-Minor-Properties",
+  "sort": 240000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "description": "",
+  "results": [
+    {
+      "_id": "YzdmODdhYTBiMDVm",
+      "flags": {},
+      "type": 0,
+      "text": "Beacon The bearer can use a bonus action to cause the item to shed light in a 10-foot radius and dim light for an additional 10 feet, or to extinguish the light",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDNmNzZjNDcwNTM5",
+      "flags": {},
+      "type": 0,
+      "text": "Compass The wielder can use an action to learn in which direction one (and only one) specific location is (North Pole; City of Greyhawk; the lost temple of ...)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        2,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Yzg2NjhhYTU4ZmZj",
+      "flags": {},
+      "type": 0,
+      "text": "Delver While underground, the item's depth below the surface and direction to the nearest exit leading upward is located.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWFlZGFkOTMwNWNl",
+      "flags": {},
+      "type": 0,
+      "text": "Gleaming this item never gets dirty",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        5,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzlhYWNlYmIwMDJh",
+      "flags": {},
+      "type": 0,
+      "text": "Conscientious When the bearer of this item contemplates or undertakes a malevolent act, the item enhances pangs of conscience.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2M5YWFmODhkNmYy",
+      "flags": {},
+      "type": 0,
+      "text": "Guardian The item whispers warnings to its bearer, granting a +2 Initiative if the bearer isn't incapacitated.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        11,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjE0MjU0NmRhNzg5",
+      "flags": {},
+      "type": 0,
+      "text": "Harmonious Attuning to this item only takes 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWNjMWUyMDVhNGJk",
+      "flags": {},
+      "type": 0,
+      "text": "Hidden Message A message is hidden somewhere on the item. It might only be visible under certain circumstances (a time of year, the light of phase of the moon, or at a specific location)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        14,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTJkYjM1Yzg4MTAy",
+      "flags": {},
+      "type": 0,
+      "text": "Key The item is used to unlock a container, chamber, vault, or other entry",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        16,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODZjYTY5NDQxNDAw",
+      "flags": {},
+      "type": 0,
+      "text": "Language The bearer can speak and understand a language of the DM's choice while the item is on the bearer's person",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        18,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDc2YzZiOWFiMGI2",
+      "flags": {},
+      "type": 0,
+      "text": "Sentinel choose a kind of creature that is an enemy of the item's creator. This item glows faintly when such a creature is within 120 feet of it.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjgzOTJlNzVmYWNh",
+      "flags": {},
+      "type": 0,
+      "text": "Song Craft Whenever this item is struck or used to strike a foe, its bearer hear a fragment of an ancient song.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDY1ODI1NTI2Zjg4",
+      "flags": {},
+      "type": 0,
+      "text": "Strange Material The item was created from a materials that is bizarre given its purpose. Its durability is unaffected.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        23,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzQ1ZWI0Mjc2ZTQ4",
+      "flags": {},
+      "type": 0,
+      "text": "Temperate The bearer suffers no ill effects from ambient temperatures from -20 to 130 degrees Fahrenheit",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        25,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2NhNzEyOTRlNzFi",
+      "flags": {},
+      "type": 0,
+      "text": "Unbreakable The item cannot be broken without special intention or means.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        28,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDM1MWE2YmI2NThi",
+      "flags": {},
+      "type": 0,
+      "text": "War Leader The bearer can use an action to cause his or her voice to carry clearly for up to 300ft until the end of the bearer's next turn.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        31,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWVhZTE5MWExNjdj",
+      "flags": {},
+      "type": 0,
+      "text": "Waterborne This item floats on the water and other liquids. Its bearer has advantage on Strength (Athletics) checks to swim.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        33,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWFjN2M5Y2QwNTg4",
+      "flags": {},
+      "type": 0,
+      "text": "Wicked When the bearer is presented with an opportunity to act in selfish or malevolent ways, the item heightens or bearer's urge to do so.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDhiOTI4YTA0MGFk",
+      "flags": {},
+      "type": 0,
+      "text": "Illusion The item is imbued with Illusion magic, allow its bearer to alter the item's appearance in minor ways. Such ways do not change how the item behaves, is worn, carried or wielded, and have no effect on its other magical properties. For example a red robe could be made to appear blue, a gold ring could appear to be made of ivory. The true nature and appearance returns when its not being carried or when its wielder is knocked unconscious.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        36,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjI3MWQxN2ZmODU3",
+      "flags": {},
+      "type": 0,
+      "text": "Roll on DMG_MagicMinorProperties{pg143} twice more. (if you receive this again you will roll ANOTHER 2 times)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 8,
+      "range": [
+        39,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDAzOWFkNmNlMmU1",
+      "flags": {},
+      "type": 0,
+      "text": "Aerial. As a bonus action the bearer can cause a harmless gust of wind to occur anywhere within 30 feet.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        47,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTg0ODNhOTgyY2Y1",
+      "flags": {},
+      "type": 0,
+      "text": "Air-trapping. The item allows the bearer to hold their breath for up to twice their normal limit.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        50,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjkxYjI3YWViMjEx",
+      "flags": {},
+      "type": 0,
+      "text": "Beast Friendly. Any animal companions or familiars you may have, have their maximum hit points increased by 2.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 8,
+      "range": [
+        55,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDVjMjhjMThiYTk4",
+      "flags": {},
+      "type": 0,
+      "text": "Birdsong. The bearer can use a bonus action to cause the item to emit the realistic call of a crow's cry that can be heard up to 120 feet away.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        63,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2Y2NTI5ZmU1ZmNl",
+      "flags": {},
+      "type": 0,
+      "text": "Bonded. The bearer can use an action to touch a living creature. For the next hour, the wielder always knows the direction and distance of this creature as long as they are within 120 feet of the wielder.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        69,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2I1YmVlMmU2MTYy",
+      "flags": {},
+      "type": 0,
+      "text": "Brimstone. The item has an odor of brimstone and is mildly nauseous to all creatures confined in enclosed places with it including the wielder.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        74,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDZmOWYwNjIzOWJi",
+      "flags": {},
+      "type": 0,
+      "text": "Cheating. As a bonus action the bearer can cause the face of a card to appear as a separate suit, number or take on some other characteristic.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        78,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjE4MjIxYzhhNTY5",
+      "flags": {},
+      "type": 0,
+      "text": "Comical. As a bonus action the bearer can cause the item to emit the sound of up to six hands clapping that can be heard up to 30 feet away.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        80,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDc4YTk1YWM5YTYz",
+      "flags": {},
+      "type": 0,
+      "text": "Connected. You always now the direction and distance of this item as long as it is within 120 feet of you",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        84,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjNmNTNlZDU5NWEz",
+      "flags": {},
+      "type": 0,
+      "text": "Cornered. The item increases the bearers speed by 10 feet when they are frightened.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        88,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWI2Y2M2Nzg0MGQ3",
+      "flags": {},
+      "type": 0,
+      "text": "Diabolical. The bearer is always aware of the most minuscule details of any verbal or written contracts they enter into.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        92,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGIzY2I2YWM4MWQ3",
+      "flags": {},
+      "type": 0,
+      "text": "Ethereal. The item obstructs passage by creatures on the Ethereal plane.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        96,
+        99
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWU4YjUzZmUyNTU3",
+      "flags": {},
+      "type": 0,
+      "text": "Envious. If this item requires attunement, it counts as two items for purposes of attunement. If it does not require attunement, instead it does.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        100,
+        103
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGU0OWRhNDY3NDQ0",
+      "flags": {},
+      "type": 0,
+      "text": "Fertile. As a bonus action, the wielder can cause plants within 10 feet to bloom as long as they are able to do so.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        104,
+        107
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmZhMWVhZmMxOGZj",
+      "flags": {},
+      "type": 0,
+      "text": "Frost. The bearer can use a bonus action to cause up to 1 ounce of non-magical, inorganic liquid to freeze by pressing the item against the substance.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        108,
+        111
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzY1N2FhNWNjNTU0",
+      "flags": {},
+      "type": 0,
+      "text": "Graceful. No matter the height, the item falls to the ground at a rate of 5 feet per round.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        112,
+        115
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWY1ODlmYzhiYjEx",
+      "flags": {},
+      "type": 0,
+      "text": "Heavy. The item is unusually heavy and can not be lifted or moved by anything with a Strength of less than 10.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        116,
+        119
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzlhMGE3ZDM4NzIy",
+      "flags": {},
+      "type": 0,
+      "text": "Hypnotic. As an bonus action the bearer can cause the item to shift its colors in a confusing pattern.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        120,
+        123
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmFiZWJmMWY2NTA0",
+      "flags": {},
+      "type": 0,
+      "text": "Immovable. The bearer can issue a command word and place the item on a flat, non-living surface. Thereafter, the item can only be removed from its place by a creature that issues the same command word.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        124,
+        127
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mjg3NmVhMDY5Y2E4",
+      "flags": {},
+      "type": 0,
+      "text": "Infrared. The item is highly distractive to creatures that see exclusively in infrared light and they suffer a 10% chance of missing on all attacks against the bearer.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        128,
+        132
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTE3YjI0MDA4NDc4",
+      "flags": {},
+      "type": 0,
+      "text": "Manipulative. When the bearer is presented with an opportunity to lie, the item heightens the bearers urge to do so.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        133,
+        136
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzliOTMyNjQ1MmEy",
+      "flags": {},
+      "type": 0,
+      "text": "Moon Blessed. The bearer always knows the number of days until the next full moon.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        137,
+        140
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTNhYmVkZWMxNDRk",
+      "flags": {},
+      "type": 0,
+      "text": "Pocket-sized. No matter the items size, it can always fit completely in the bearers pocket.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        141,
+        144
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjI3MWU4NThiMzI1",
+      "flags": {},
+      "type": 0,
+      "text": "Portentous. The item can see briefly into the future events of its bearer, granting a +1 bonus to initiative if the bearer isn't incapacitated.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        145,
+        148
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjZjZjlmYTI4NGIw",
+      "flags": {},
+      "type": 0,
+      "text": "Preening. This item always gives its bearer the appearance of being clean and well-groomed.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        149,
+        152
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjRkYThjNjEwNjhl",
+      "flags": {},
+      "type": 0,
+      "text": "Quick-drawing. You can interact with this item once for free on you turn.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        153,
+        157
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjIzZjVlODBhZmQy",
+      "flags": {},
+      "type": 0,
+      "text": "Rage-filled. When the bearer is presented with an opportunity to forgive a foe or competitor, the item heightens the urge not to do so. Additionally if the bearer has the ability to rage, they may choose to do so once as a free action between each of their long rests.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        158,
+        162
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2IwMmNhMDY3N2Jh",
+      "flags": {},
+      "type": 0,
+      "text": "Repelling. As an action the bearer can cause all tiny and smaller insects to flee up to a foot away from the bearer, including those currently part of a swarm.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        163,
+        167
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzBjY2U3NjkxYzkz",
+      "flags": {},
+      "type": 0,
+      "text": "Rustless. The item can never be corroded due to rust.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        168,
+        173
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmZkOTY2ODE2NjYw",
+      "flags": {},
+      "type": 0,
+      "text": "Secretive. As a bonus action the bearer can whisper a short sentence to the item followed by a command word. Thereafter, any creature that holds the item and speaks the command word hears the sentence magically spoken in their head. The item can store only one sentence at a time.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        174,
+        178
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTIwYjcyYWNkNDZk",
+      "flags": {},
+      "type": 0,
+      "text": "Shadow. The item becomes invisible when left unattended in dim or dark light, including magical darkness.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        179,
+        183
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGY0NWQwOTU1OWE4",
+      "flags": {},
+      "type": 0,
+      "text": "Shrouded. As a bonus action, the bearer can cause all light within ten feet of the item to go from bright to dim, or dim to dark. The effect appears as shadowy overlays and does not affect any light sources in the area.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        184,
+        188
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjE0OGQzYjMzNWU0",
+      "flags": {},
+      "type": 0,
+      "text": "Silent. The item makes no noise when drawn or used.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        189,
+        193
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDQ1Nzg1NDY3NGM3",
+      "flags": {},
+      "type": 0,
+      "text": "Slippery. The bearer can issue a command word and cause the item to safely slide up to 60 feet along a flat surface in a single, unobstructed direction.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        194,
+        197
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTU4YTgyN2FkYmI2",
+      "flags": {},
+      "type": 0,
+      "text": "Subtle. As a bonus action the bearer can cause the item to appear as a mundane equivalent of itself. The illusion lasts for a up to a minute or until the bearer uses another bonus action to end it.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        198,
+        202
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzJmMTdmMThkYTZl",
+      "flags": {},
+      "type": 0,
+      "text": "Thunderous. Whenever this item is struck or used to strike a foe, the bearer hears the sound of rumbling thunder.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        203,
+        207
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDU5MzliNjBlNDU5",
+      "flags": {},
+      "type": 0,
+      "text": "Murderous. Whenever the opportunity to kill rather than wound an opponent presents itself to the bearer, the bearer feels strongly drawn towards the former.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        208,
+        211
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTJmOGEzMzljYTgy",
+      "flags": {},
+      "type": 0,
+      "text": "Weatherbeaten. The item is impervious to the effects of the elements and is always appropriately dry or wet depending on the bearers choosing.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 8,
+      "range": [
+        212,
+        219
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDk0ZDYyZWE2ZTYw",
+      "flags": {},
+      "type": 0,
+      "text": "Resonant. The item grows warm to the touch within a foot of a magical item not currently adorned by the bearer.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        220,
+        222
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDFiMTk5NGVlYzEw",
+      "flags": {},
+      "type": 0,
+      "text": "Wrathful When on the plane of Ysgard, the bearer is unaffected by Immortal Wrath. (DMG p. 61)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        223,
+        225
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmI2ODkzZTZlN2M4",
+      "flags": {},
+      "type": 0,
+      "text": "Arcane The bearer gains a +1 to Intelligence (Arcana) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        226,
+        228
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTM5NGM5MjRiMzgw",
+      "flags": {},
+      "type": 0,
+      "text": "Windborne When in the Plane of Air, the bearer can navigate the Labyrinth Wind intuitively, and knows the path to the nearest Earth Mote within 60 miles.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        229,
+        232
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTlhYzYxYjBkYjYx",
+      "flags": {},
+      "type": 0,
+      "text": "Waterborne The item floats on water or other liquids. Its bearer has advantage on Strength (Athletics) checks to swim.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        233,
+        236
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWNmOTNiMDY1OGNm",
+      "flags": {},
+      "type": 0,
+      "text": "War Leader The bearer can use an action to amplify their voice so that it clearly carries for up to 300 feet.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        237,
+        239
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmZlMjZjNjVhMTFm",
+      "flags": {},
+      "type": 0,
+      "text": "Vital The bearer's maximum hit points increases by their constitution modifier while attuned to this item. These hit points are lost when the bearer unattunes the item.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        240,
+        243
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGRiYzQ0OTE2ZjM4",
+      "flags": {},
+      "type": 0,
+      "text": "Vigorous The bearer gains a +1 bonus to Strength saving throws.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        244,
+        246
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTU4ZGYxMTVlYzRh",
+      "flags": {},
+      "type": 0,
+      "text": "Vigilant The bearer gains +2 to their Passive Perception.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        247,
+        247
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDYzMzhjYWMwNDNi",
+      "flags": {},
+      "type": 0,
+      "text": "Victorious Whenever the bearer kills a creature they gain temporary hit points equal to the creature's CR.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        248,
+        252
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjQwMmE4ZGRjZDYw",
+      "flags": {},
+      "type": 0,
+      "text": "Verdant The bearer may cast Druidcraft once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        253,
+        257
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzQ3MDZlOTNlMDdh",
+      "flags": {},
+      "type": 0,
+      "text": "Unbroken The bearer gains a +1 bonus to Constitution saving throws.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        258,
+        261
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTkyNmJkMTQ5YjNj",
+      "flags": {},
+      "type": 0,
+      "text": "True The bearer may cast True Strike once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        262,
+        265
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Yjc3MzYyNmYxZjI1",
+      "flags": {},
+      "type": 0,
+      "text": "Trickster The bearer may cast Minor Illusion once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        266,
+        266
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzUyZTE3MTcyNTJi",
+      "flags": {},
+      "type": 0,
+      "text": "Translunescent The bearer gains an extra level one spell slot, which recovers only after a full moon rises.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        267,
+        270
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDU1YTk2NWFmZGY5",
+      "flags": {},
+      "type": 0,
+      "text": "Trackers The bearer gains a +1 to Wisdom (Survival) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        271,
+        274
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjA0Y2VlOGNiYTY5",
+      "flags": {},
+      "type": 0,
+      "text": "Tenacious When the bearer takes a long rest, they gain back one additional hit die.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        275,
+        280
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWM1NDRmZDE0ZGFj",
+      "flags": {},
+      "type": 0,
+      "text": "Surgeon's The bearer gains a +1 bonus to Wisdom (Medicine) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        281,
+        284
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjdjYzEwNGE5Y2U1",
+      "flags": {},
+      "type": 0,
+      "text": "Striding Contains 1d4 unreplenishable charges of the Longstrider spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 7,
+      "range": [
+        285,
+        291
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2UyZjBiM2U1Zjcx",
+      "flags": {},
+      "type": 0,
+      "text": "Sparkling The bearer may cast Dancing Lights once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        292,
+        295
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDI5ZTViOTEyYjli",
+      "flags": {},
+      "type": 0,
+      "text": "Solemn The bearer may spend an action removing all the failed death saving throws from a target within 5 feet of them. The target is still not stabilized.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        296,
+        298
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmQ2Y2JiMGI3YmZh",
+      "flags": {},
+      "type": 0,
+      "text": "Sojourner's A poem, story, or map that describes a long-forgotten treasure is etched on the surface of the item.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 12,
+      "range": [
+        299,
+        310
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Nzk1MTdjZDQ2OTdm",
+      "flags": {},
+      "type": 0,
+      "text": "Smith's The bearer may cast Mending once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        311,
+        315
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWE5YWZmM2RjZTY4",
+      "flags": {},
+      "type": 0,
+      "text": "Silent The bearer gains a +1 bonus to Dexterity (Stealth) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        316,
+        318
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWI1ZGJhODQyYzAy",
+      "flags": {},
+      "type": 0,
+      "text": "Shifting The bearer may change minor aspects of the physical appearance of this item.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        319,
+        321
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjM5MTNhZGRiMTll",
+      "flags": {},
+      "type": 0,
+      "text": "Shielding This item contains 1d4 unreplenishable charges of the Shield spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        322,
+        324
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGY3YWZkNTFiYjNk",
+      "flags": {},
+      "type": 0,
+      "text": "Shepherd The bearer gains a +1 bonus to (Wisdom) Animal Handling checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        325,
+        328
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGZiODJmYTUwNjNm",
+      "flags": {},
+      "type": 0,
+      "text": "Shadowbound The bearer knows the general direction to the closest Shadow Crossing within a 60 mile radius. They have advantage on saving throws vs. Shadowfell Despair (DMG p. 51-52)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        329,
+        331
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDY3NDhlMTRmYWIw",
+      "flags": {},
+      "type": 0,
+      "text": "Shading The bearer suffers no harm in temperatures as high as 120 degrees Fahrenheit. (Hot condition when traveling)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        332,
+        334
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDg5OGQxMDg1MDU0",
+      "flags": {},
+      "type": 0,
+      "text": "Sentinel Faintly glows when creatures of a certain race (DMs choice) are within a 100 foot radius.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        335,
+        337
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzRiNDAzNzMzZDY3",
+      "flags": {},
+      "type": 0,
+      "text": "Secret Contains 1d4 unreplenishable charges of the Illusory Script spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        338,
+        340
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjRiYzVkZGM2OWQz",
+      "flags": {},
+      "type": 0,
+      "text": "Sage's The bearer gains a +1 bonus to Intelligence (History) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        341,
+        344
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGM4NGQzYmQwZTgx",
+      "flags": {},
+      "type": 0,
+      "text": "Sagacious The bearer gains +1 to Wisdom (Insight) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        345,
+        347
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTM5OTkxYjZiNTUy",
+      "flags": {},
+      "type": 0,
+      "text": "Miraculous The bearer may increase their Lay on Hands hit point pool by 5.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        348,
+        350
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWRjOTRjMWI5ZTMw",
+      "flags": {},
+      "type": 0,
+      "text": "Cabalistic Whenever the bearer casts a spell as a ritual, they have advantage to maintain concentration during the ritual.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        351,
+        354
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTc1ZWNkZWZiODUw",
+      "flags": {},
+      "type": 0,
+      "text": "Revealing Contains 1d4 unreplenishable charges of the Detect Magic spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        355,
+        359
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmQzNGM2YjVkOTRl",
+      "flags": {},
+      "type": 0,
+      "text": "Inspiration Once per day, the bearer may gain +1 to any skill check.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        360,
+        363
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGExZDZjZTJkNWE3",
+      "flags": {},
+      "type": 0,
+      "text": "Reaper's Bane The bearer has advantage on death saving throws.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        364,
+        366
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzE1ODE5Zjg0Nzlj",
+      "flags": {},
+      "type": 0,
+      "text": "Protective The bearer may cast Blade Ward once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        367,
+        369
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGI1MjIxNDhhNGZh",
+      "flags": {},
+      "type": 0,
+      "text": "Projecting The bearer can send messages mentally to willing characters within 30 feet. This communication is one-way only.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        370,
+        372
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mjk3Y2UwOGJkOGIy",
+      "flags": {},
+      "type": 0,
+      "text": "Preacher's The bearer may extend the range of their Channel Divinity by 5 feet.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        373,
+        377
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTMyNzUxYzM3MzI4",
+      "flags": {},
+      "type": 0,
+      "text": "Pandemonium When on the plane of Pandemonium, the bearer has advantage on saving throws against the Mad Winds. (DMG p. 62)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        378,
+        382
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGE3ZjVjMjc3OTEw",
+      "flags": {},
+      "type": 0,
+      "text": "Nourishing The bearer rarely feels hungry, and only needs to consume one-fifth the usual amount of food.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        383,
+        383
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjkwZWQyZjJlMTA4",
+      "flags": {},
+      "type": 0,
+      "text": "Nimble The bearer gains a +1 bonus to Dexterity saving throws.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        384,
+        386
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGRkZmM1ODM2ODMx",
+      "flags": {},
+      "type": 0,
+      "text": "Neutrality Contains 1d4 unreplenishable charges of the Protection from Good and Evil spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        387,
+        389
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDIyZjYwYmY0ZjU2",
+      "flags": {},
+      "type": 0,
+      "text": "Foraging Contains 1d6 unreplenishable charges of the Locate Animals or Plants spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        390,
+        393
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2Y4YzQ0NDNlYzRh",
+      "flags": {},
+      "type": 0,
+      "text": "Mocking The bearer may cast Vicious Mockery once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        394,
+        396
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Nzk5N2Y1ZWJjZTRh",
+      "flags": {},
+      "type": 0,
+      "text": "Mummer the bearer gains +1 to Charisma (Performance) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        397,
+        399
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YThhNGZmZWQwNzJi",
+      "flags": {},
+      "type": 0,
+      "text": "Holy When the bearer of this item rolls hit dice, they can choose to re-roll them and take the second result.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        400,
+        404
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmE5OWIwNDliNzZm",
+      "flags": {},
+      "type": 0,
+      "text": "Abyssal When on the plane of the Abyss, the bearer has advantage on saving throws against Abyssal Corruption. (DMG p. 62)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        405,
+        407
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2I3ZjQwY2E0ZjM0",
+      "flags": {},
+      "type": 0,
+      "text": "Acolyte's The bearer gains a +1 bonus to Wisdom (Religion) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        408,
+        413
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmU3ODE5YTM4YjZi",
+      "flags": {},
+      "type": 0,
+      "text": "Adroit The bearer gains +1 bonus to Intelligence saving throws.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        414,
+        416
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmQ5YzkzZjEyNGM5",
+      "flags": {},
+      "type": 0,
+      "text": "Alarming Contains 1d4 unreplenishable charges of the Alarm spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        417,
+        419
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGI5MDQ0ZDk0Njc0",
+      "flags": {},
+      "type": 0,
+      "text": "Arborean When on the plane of Arborea, the bearer has advantage on saving throws against the effects of Intense Yearning. (DMG p. 61)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        420,
+        423
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTRlNjUyMzE3MTFm",
+      "flags": {},
+      "type": 0,
+      "text": "Arcadian When on the plane of Arcardia, the bearer is unaffected by Planar Vitality (DMG p. 67)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        424,
+        429
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWVjZDQzNGNmMGYy",
+      "flags": {},
+      "type": 0,
+      "text": "Arctic The bearer suffers no harm in temperature as cold as -20 degrees Fahrenheit.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        430,
+        434
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDRiNGE5M2E0ZjNh",
+      "flags": {},
+      "type": 0,
+      "text": "Solipsistic The bearer may cast Thaumaturgy once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        435,
+        437
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjQ0YjE4Mjg5NGIz",
+      "flags": {},
+      "type": 0,
+      "text": "Mindful The bearer gains a +1 bonus to Wisdom saving throws.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        438,
+        440
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjQ1NmI2NjBjNzM0",
+      "flags": {},
+      "type": 0,
+      "text": "Meteoric Contains 1 unreplenishable charge of Scorching Ray (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        441,
+        443
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzhiNTBiN2Q5NGEx",
+      "flags": {},
+      "type": 0,
+      "text": "Messenger The bearer may cast Message once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        444,
+        448
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzA4ZjYzNmRlM2Vi",
+      "flags": {},
+      "type": 0,
+      "text": "Gambit The bearer has a +1 bonus to any skill check involving gambling and games of chance (Insight, Sleight of Hand, Investigation, etc).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        449,
+        452
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDQwODczMzRkZmFi",
+      "flags": {},
+      "type": 0,
+      "text": "Taskmaster's Contains 1d4 unreplenishable charges of the Unseen Servant spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        453,
+        457
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDhkMGJhZGZkOWNl",
+      "flags": {},
+      "type": 0,
+      "text": "Manipulating The bearer may cast Mage Hand once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        458,
+        461
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGIxOTZjOWQzNjUx",
+      "flags": {},
+      "type": 0,
+      "text": "Malediction Contains 1d4 unreplenishable charges of the Bane spell(1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        462,
+        465
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDQzY2Q2NTljMTQ5",
+      "flags": {},
+      "type": 0,
+      "text": "Loquacious The bearer gains +1 to Charisma (Persuasion) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        466,
+        468
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjBlNDcwMmYwMDZl",
+      "flags": {},
+      "type": 0,
+      "text": "Locating Once attuned, the bearer always knows the exact location of this item",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        469,
+        472
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDk2NjQ2MDgzNGVh",
+      "flags": {},
+      "type": 0,
+      "text": "Limbo When on the plane of Limbo, the bearer has advantage to Intelligence checks to alter or move non-magical objects within the plane. (DMG p. 61-62)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        473,
+        476
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWJiODkzNjRmYjIx",
+      "flags": {},
+      "type": 0,
+      "text": "Liar's Contains 1d4 unreplenishable charges of the Silent Image spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        477,
+        480
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWRhMGM3NDk1YWNm",
+      "flags": {},
+      "type": 0,
+      "text": "Leaping Contains 1d4 unreplenishable charges of the Jump spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        481,
+        483
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzhiYWY2ZTZhZTBi",
+      "flags": {},
+      "type": 0,
+      "text": "Inspired The bearer regains their Constitution modifier in temporary hit points whenever they gain or use inspiration.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        484,
+        487
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjI4MmI4MjUzMDg2",
+      "flags": {},
+      "type": 0,
+      "text": "Inquisitor's The bearer gains a +1 bonus to Intelligence (Investigation) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        488,
+        491
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODE4ZDYwMWM2ZTkz",
+      "flags": {},
+      "type": 0,
+      "text": "Iconic The item is inscribed with holy symbols of the God of the DM's choice. A cleric or paladin that serves that god may use this item as a divine focus.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 7,
+      "range": [
+        492,
+        498
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGQyNTE0YmIxMGQx",
+      "flags": {},
+      "type": 0,
+      "text": "Heroic The bearer has advantage on saving throws vs. fear.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        499,
+        502
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDgwN2I1Mzc1MmZl",
+      "flags": {},
+      "type": 0,
+      "text": "Hellish When in the Nine Hells, the bearer has advantage on saving throws against Pervasive Evil. (DMG p. 64)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        503,
+        506
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGVjMWNmOGFjMWRm",
+      "flags": {},
+      "type": 0,
+      "text": "Healing This item contains 4 weak healing nodes. As an action, a character can use one node to heal 1d4 hit points at touch range. The item regains 1d4 charges at sunrise.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        507,
+        510
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTAzZWZjOTY5MGNh",
+      "flags": {},
+      "type": 0,
+      "text": "Hadean When on the plane of Hades, the bearer has advantage on saving throws against Vile Transformation. (DMG p. 63)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        511,
+        514
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjFlYzk0ZWZjY2E5",
+      "flags": {},
+      "type": 0,
+      "text": "Grim The bearer gains a +1 bonus to Charisma (Intimidation) checks if the target can see this item.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        515,
+        519
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzEyN2E2MjNiMmUw",
+      "flags": {},
+      "type": 0,
+      "text": "stabilize The bearer may cast Spare the Dying once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        520,
+        523
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWU0ZmQ1ODI4Mjhi",
+      "flags": {},
+      "type": 0,
+      "text": "Gehennan When on the plane of Gehenna, the bearer has advantage on saving throws against Cruel Hindrance. (DMG p. 63)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        524,
+        527
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmM5ZTgwNjVkNzgy",
+      "flags": {},
+      "type": 0,
+      "text": "Friendly Contains 1d4 unreplenishable charges of the Animal Friendship spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        528,
+        530
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDUzZWRjYzkxNDk1",
+      "flags": {},
+      "type": 0,
+      "text": "Fortune Teller's Every time you are hit by a monster, you glimpse a random image of its future or past.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        531,
+        534
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mzg2MzIyZWU4ZTIy",
+      "flags": {},
+      "type": 0,
+      "text": "Forgiven When on the plane of Mount Celestia, the bearer of this item can receive the benefits of Blessed Beneficence regardless of their alignment.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        535,
+        538
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWYxYzU1ZDA1OGE3",
+      "flags": {},
+      "type": 0,
+      "text": "First The bearer gain a +1 bonus to initiative rolls",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        539,
+        542
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTc3MWUxZDE4YmQ1",
+      "flags": {},
+      "type": 0,
+      "text": "Feybound The bearer knows the general direction to the closest Fey Crossing within a 60 mile radius. (DMG p. 50)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        543,
+        545
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODlmNDJiODE5MDEz",
+      "flags": {},
+      "type": 0,
+      "text": "Floating Contains 1d4 unreplenishable charges of the Feather Fall spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        546,
+        549
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzJjNWFlNjJiMjBk",
+      "flags": {},
+      "type": 0,
+      "text": "Favored Once per day, the bearer may roll a saving throw with advantage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        550,
+        553
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmZjOTlkMjhkMjdm",
+      "flags": {},
+      "type": 0,
+      "text": "Fathoming Contains 1d4 unreplenishable charges of the Comprehend Languages spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        554,
+        559
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjRjOWMzMDQwYTJi",
+      "flags": {},
+      "type": 0,
+      "text": "FALSE The bearer gains a +1 bonus to Charisma (Deception) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        560,
+        562
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDQyZTFkYWU4NTIy",
+      "flags": {},
+      "type": 0,
+      "text": "Expeditious Contains 1d4 unreplenishable charges of the Expeditious Retreat spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        563,
+        565
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODAzYTZkNjEyZmVk",
+      "flags": {},
+      "type": 0,
+      "text": "Blessed Contains 1d4 unreplenishable charges of the Bless spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        566,
+        570
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTRjYWU4YWM3YWMy",
+      "flags": {},
+      "type": 0,
+      "text": "Etherbound The bearer can see creatures in the Border Ethereal that overlap with their plane as clearly as if they were fully in the bearer's plane. Such creatures appear as apparitions or ghosts.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        571,
+        574
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjUzY2FiYTk1Yjk3",
+      "flags": {},
+      "type": 0,
+      "text": "Elysian When on the plane of Elysium, the bearer has advantage on saving throws against the effects of Overwhelming Joy (DMG p. 60)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        575,
+        578
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjJmYTM1ODVjZGVl",
+      "flags": {},
+      "type": 0,
+      "text": "Eavesdropper's As long as it is on the same plane, the bearer can hear through this item as if they were present.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        579,
+        582
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWFmNTVlNjI1NDBl",
+      "flags": {},
+      "type": 0,
+      "text": "Dynamic The bearer has +1 to Charisma saving throws.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        583,
+        588
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjZmNjkxY2IyYmEx",
+      "flags": {},
+      "type": 0,
+      "text": "Distillery The bearer always knows the direction to the closest alcoholic beverage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        589,
+        592
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzY3MGRiNTA2MTYw",
+      "flags": {},
+      "type": 0,
+      "text": "Desperate The bearer has advantage on perception checks when searching for items long lost in the the Swamp of Oblivion on the Plane of Earth. (DMG p. 54)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        593,
+        594
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWRhZTU3ZmM5YjM2",
+      "flags": {},
+      "type": 0,
+      "text": "Delver's While underground, the bearer of this item always knows the item's depth below the surface and the direction to the nearest staircase, ramp, or other path leading upward.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        595,
+        598
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTU3NzU4MDQ2ZDMw",
+      "flags": {},
+      "type": 0,
+      "text": "Crawling The crawling things of the earth, such as insects, snakes, and vermin, are attracted to this item. When placed on the ground, such creatures will scurry toward the item like moths drawn to the flame.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        599,
+        603
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjYzNDM4OTRjM2I4",
+      "flags": {},
+      "type": 0,
+      "text": "Cartographic On its own volition, the item records a map of the environments that the bearer is exploring, and can magically project it for the bearer to see.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        604,
+        605
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzhmYjE5N2Q1YWZl",
+      "flags": {},
+      "type": 0,
+      "text": "Astral When travelling the Astral Sea, it takes half the number of hours to locate a Color Pool to a specific plane. You have advantage on saving throws vs. the effects of Psychic Wind (DMG p. 47-48)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        606,
+        609
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTExZDZlZWVmNDRi",
+      "flags": {},
+      "type": 0,
+      "text": "Carcerian When on the plane of Carceri, the bearer knows the direction to the closest secret exit from this prison plane. (DMG p. 63)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        610,
+        613
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTZkNmNjODk2OGU5",
+      "flags": {},
+      "type": 0,
+      "text": "Conjurer's The bearer may cast Prestidigitation once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        614,
+        616
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODU4ZDc5NTJjMmZl",
+      "flags": {},
+      "type": 0,
+      "text": "Beastial When on the plane of The Beastlands, the bearer has advantage on saving throws vs. Beast Transformation (DMG p. 60)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        617,
+        619
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGYzNTY2OGE3YmEy",
+      "flags": {},
+      "type": 0,
+      "text": "Bytopian When on the plane of Bytopia, the bearer has advantage on saving throws against Pervasive Goodwill. (DMG p. 59-60)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        620,
+        623
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2JkMzg5ZGEyYzcz",
+      "flags": {},
+      "type": 0,
+      "text": "Concordant The bearer has advantage on saving throws vs. Psychic Dissonance when travelling the Outer Planes. (DMG p. 59)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        624,
+        628
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzdhMzBiZjVkOTA3",
+      "flags": {},
+      "type": 0,
+      "text": "Clockwork When on the plane of Mechanus, the bearer has advantage on saving throws against Imposing Order (DMG p. 66)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        629,
+        633
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDVhZmIyZDk3ZDRh",
+      "flags": {},
+      "type": 0,
+      "text": "Druid's The bearer gains a +1 bonus to Intelligence (Nature) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        634,
+        637
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2FkMTZmMzM0OWYz",
+      "flags": {},
+      "type": 0,
+      "text": "Defensive Whenever the bearer takes a dodge action, they may move an additional 5 feet.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        638,
+        643
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTNmYmJmZWNmNmMw",
+      "flags": {},
+      "type": 0,
+      "text": "Chill Contains 1d4 unreplenishable charges of the Ray of Frost spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        644,
+        647
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDg1NjdmNjQ2Njhk",
+      "flags": {},
+      "type": 0,
+      "text": "Arresting Once per day, the bearer may use their reaction to reduce fall damage by 1d6 until the end of turn.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        648,
+        651
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDMzOTc2ODE1ZThj",
+      "flags": {},
+      "type": 0,
+      "text": "Dancer's The bearer gains a +1 bonus to Dexterity (Acrobatics) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        652,
+        652
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTgyZjE0MDQ2YjA1",
+      "flags": {},
+      "type": 0,
+      "text": "Corrosive Contains 1d4 unreplenishable charges of the Acid Splash spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        653,
+        658
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWMwMDJjZTliZjc3",
+      "flags": {},
+      "type": 0,
+      "text": "Sociable The bearer may cast Friends once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        659,
+        661
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTdjNzU5YTIxNjZi",
+      "flags": {},
+      "type": 0,
+      "text": "Channelling Once per day, the bearer may ignore the Verbal and/or Somatic components of a spell they are casting.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        662,
+        664
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjM5MzY0NGNiMzgy",
+      "flags": {},
+      "type": 0,
+      "text": "Burglar's The bearer gains +1 to Dexterity (Sleight of Hand) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        665,
+        667
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmY0MDk4MmY1NjI4",
+      "flags": {},
+      "type": 0,
+      "text": "Bountiful Contains 1d4 unreplenishable charges of the Goodberry spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        668,
+        670
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjQxNzcwMmUxZDU0",
+      "flags": {},
+      "type": 0,
+      "text": "Bold Contains 1d4 unreplenishable charges of the Heroism spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        671,
+        673
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWEzNzRkZjViMzQ5",
+      "flags": {},
+      "type": 0,
+      "text": "Blasted Contains 1d4 unreplenishable charges of the Fire Bolt spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        674,
+        676
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGZmYTk1ZTM1YmIz",
+      "flags": {},
+      "type": 0,
+      "text": "Benedictine Contains 1d4 unreplenishable charges of the Healing Word spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        677,
+        679
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjBmYTVmN2Q4Zjc5",
+      "flags": {},
+      "type": 0,
+      "text": "Beastspeaker's Contains 1d4 unreplenishable charges of the Speak with Animals spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        680,
+        684
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTY3Y2EwMmM5MGQ5",
+      "flags": {},
+      "type": 0,
+      "text": "Troubadour The bearer gains +1 to Charisma (Performance) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 4,
+      "range": [
+        685,
+        688
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjcxMjlmMmNhNDlh",
+      "flags": {},
+      "type": 0,
+      "text": "Barbarian's The bearer gains a +1 bonus to Strength (Athletics) checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        689,
+        691
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTgyMjFkMGM3M2Vi",
+      "flags": {},
+      "type": 0,
+      "text": "Assassin's The bearer may add their proficiency bonus to damage rolls dealt during surprise rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        692,
+        696
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDc3NzFlZDI2Yzkx",
+      "flags": {},
+      "type": 0,
+      "text": "Compassionate Contains 1d4 unreplenishable charges of the Cure Wounds spell (1st level).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        697,
+        702
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2E1NDljZmM5Y2Zi",
+      "flags": {},
+      "type": 0,
+      "text": "Restorative Whenever bearer of this item receives divine healing, they gain an additional 1d4 hit points.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        703,
+        707
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2U4N2FiZmNmNjQz",
+      "flags": {},
+      "type": 0,
+      "text": "Harmonious* Attuning to this item takes only 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        708,
+        713
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d713",
+  "replacement": true,
+  "displayRoll": false
+}

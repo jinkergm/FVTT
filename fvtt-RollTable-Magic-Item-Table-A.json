@@ -1,0 +1,168 @@
+{
+  "_id": "NDRhNjE5YjI3OTE1",
+  "name": "Magic-Item-Table-A",
+  "sort": 150000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "MGViNTYwZDFmMzE2",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Healing - Red liquid that glimmers and softly glows when agitated",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 50,
+      "range": [
+        1,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmVhOGM2YWIxMzNm",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Mana~Blue potion that glows softly~",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 30,
+      "range": [
+        51,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDBkOWYxMTc5NDVh",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (cantrip)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 8,
+      "range": [
+        81,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTI5ZjkwMzU2YTll",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Climbing ~The liquid has separate into layers; dirty brown, silver, and pocked/ashy gray~",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDkxYmZmZDFjNjg4",
+      "flags": {},
+      "type": 0,
+      "text": "Draught of Empowerment ~black sludge that reflects absolutely no light~",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzQyNGY3YTk2NDI0",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (1st Level)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 15,
+      "range": [
+        96,
+        110
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzQzNTNjYTE3ODFj",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (2nd Level)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        111,
+        113
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGE3YWQ5OTU5OWI2",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Greater Healing ~Red fluid that glows softly and glistens when agitated",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        114,
+        116
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjRkYTM2M2U3NzBh",
+      "flags": {},
+      "type": 0,
+      "text": "Bag of Holding",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        117,
+        117
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWExMjI1OTQ2NDRm",
+      "flags": {},
+      "type": 0,
+      "text": "Driftglobe",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        118,
+        118
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d118",
+  "replacement": true,
+  "displayRoll": false
+}

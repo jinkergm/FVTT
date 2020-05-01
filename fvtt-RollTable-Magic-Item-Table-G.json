@@ -1,0 +1,1323 @@
+{
+  "_id": "MjVhNmNiZTVlNDI4",
+  "name": "Magic-Item-Table-G",
+  "sort": 210000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "OTYxMTlhYzY0ZjU2",
+      "flags": {},
+      "type": 0,
+      "text": "Weapon, +2 (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 11,
+      "range": [
+        1,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmQ2OTdjZjU5NmZk",
+      "flags": {},
+      "type": 0,
+      "text": "Figurine of wondrous power (Roll a d8: 1 - bronze griffon, 2 - ebony fly, 3 - golden lions, 4 - ivory goats, 5 - marble elephant, 6-7 - onyx dog, 8 - serpentine owl) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        12,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTYyODBkZjIzN2Ux",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine armor (breastplate) (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODIzNTVmYzU0NzVi",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine armor (splint) (U)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGNjMGI4YWYzZGUw",
+      "flags": {},
+      "type": 0,
+      "text": "Amulet of health (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGU2OTU0ZWUxZDEx",
+      "flags": {},
+      "type": 0,
+      "text": "Armor of vulnerability (Roll a d6: 1-2-bludgeoning, 3-4-piercing, 5-6-slashing) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDQ3ZmFhZTQ0Y2Nm",
+      "flags": {},
+      "type": 0,
+      "text": "Arrow-catching shield (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTc1YTEyMDJlOTBi",
+      "flags": {},
+      "type": 0,
+      "text": "Belt of dwarvenkind (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzkxZjUzOGNiMGNl",
+      "flags": {},
+      "type": 0,
+      "text": "Belt of hill giant strength (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzdmYjAxN2ZkNDcx",
+      "flags": {},
+      "type": 0,
+      "text": "Berserker axe (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDgzYmQ4ZDBjZmMy",
+      "flags": {},
+      "type": 0,
+      "text": "Boots of levitation (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2U4ZjdkNzQ4ODVl",
+      "flags": {},
+      "type": 0,
+      "text": "Boots of speed",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjMyNGZiYzUyZWQ3",
+      "flags": {},
+      "type": 0,
+      "text": "Bowl of commanding water elementals (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWUwYWE1YTVhZjU5",
+      "flags": {},
+      "type": 0,
+      "text": "Bracers of defense (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmE2NWViNmVkZTFh",
+      "flags": {},
+      "type": 0,
+      "text": "Brazier of commanding fire elementals (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODI2MDE5ZjVmYmY5",
+      "flags": {},
+      "type": 0,
+      "text": "Cape of the mountebank (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTUzNGI4Yzc5ZGY4",
+      "flags": {},
+      "type": 0,
+      "text": "Censer of controlling air elementals (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmI5MjMxMDhkMzYx",
+      "flags": {},
+      "type": 0,
+      "text": "Armor, +1 chain mail (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTQ5N2E0MDQ5NWVl",
+      "flags": {},
+      "type": 0,
+      "text": "Armor of resistance (chain mail) (Roll a d4 to determine type: 1-acid, 2-cold, 3-fire, 4-force) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzkwNGUwYmQ2OWEz",
+      "flags": {},
+      "type": 0,
+      "text": "Armor, +1 chain shirt (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTdiYWNkOTQ4NzY1",
+      "flags": {},
+      "type": 0,
+      "text": "Armor of resistance (chain shirt) (Roll a d4 to determine type: 1-acid, 2-cold, 3-fire, 4-force) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmI3MjJlMzY0Zjdh",
+      "flags": {},
+      "type": 0,
+      "text": "Cloak of displacement (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWVlMzQ3ZWVhNDNm",
+      "flags": {},
+      "type": 0,
+      "text": "Cloak of the bat (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGJkZjQ4YTRhMmI0",
+      "flags": {},
+      "type": 0,
+      "text": "Cube of force (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDJhNzc1MDJkNzg1",
+      "flags": {},
+      "type": 0,
+      "text": "Daern's instant fortress (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmJkNzc1MzJmYjZk",
+      "flags": {},
+      "type": 0,
+      "text": "Dagger of venom (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mzk0ZGI2NTBiODll",
+      "flags": {},
+      "type": 0,
+      "text": "Dimensional shackles (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzcxMGYwODk4Njcw",
+      "flags": {},
+      "type": 0,
+      "text": "Dragon slayer (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTcyNGI1YTQyNDQ2",
+      "flags": {},
+      "type": 0,
+      "text": "Elven chain (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmZjOTlmYzBmNjE0",
+      "flags": {},
+      "type": 0,
+      "text": "Flame tongue (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWMzMjA1MmM4Njky",
+      "flags": {},
+      "type": 0,
+      "text": "Gem of seeing (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWMzYzA3YjNlNWMz",
+      "flags": {},
+      "type": 0,
+      "text": "Giant slayer (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTE3ODI5MDhhZThl",
+      "flags": {},
+      "type": 0,
+      "text": "Glamoured studded leather (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTQ1ZjQyZmVkYzlh",
+      "flags": {},
+      "type": 0,
+      "text": "Helm of teleportation (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mjk1N2I5N2JhMjc5",
+      "flags": {},
+      "type": 0,
+      "text": "Horn of blasting (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDM2MDczYTcwYzJj",
+      "flags": {},
+      "type": 0,
+      "text": "Horn of Valhalla (Roll a d4: 1-2-silver, 3-4brass) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzMwMTk4NDdlMjIx",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the bards (Canaith mandolin) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjQzNjgyY2VlMmQ0",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the bards (Cli lyre) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzFjNmNkMDAzNDVi",
+      "flags": {},
+      "type": 0,
+      "text": "Ioun stone of awareness (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDZkNTZjNDM3MjZl",
+      "flags": {},
+      "type": 0,
+      "text": "Ioun stone of protection (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjY5NTI3ZWEzMTFh",
+      "flags": {},
+      "type": 0,
+      "text": "Ioun stone of reserve (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGExNTE4YjM0YmZm",
+      "flags": {},
+      "type": 0,
+      "text": "Ioun stone of sustenance (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGJkYzk0NjE4N2Iz",
+      "flags": {},
+      "type": 0,
+      "text": "Iron bands of Bilarro (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjU3NTA1Mjc0Yzk0",
+      "flags": {},
+      "type": 0,
+      "text": "Armor, +1 leather (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmVkMTExOTlkYzJl",
+      "flags": {},
+      "type": 0,
+      "text": "Armor of resistance (leather) (Roll a d4 to determine type: 1-acid, 2-cold, 3-fire, 4-force) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmVmYWVjNzExOTI4",
+      "flags": {},
+      "type": 0,
+      "text": "Mace of disruption (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmJiZjVkMDAzNGU3",
+      "flags": {},
+      "type": 0,
+      "text": "Mace of smiting (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjkwMDBhOWQ1ZGE5",
+      "flags": {},
+      "type": 0,
+      "text": "Mace of terror (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGUxNThlYzk3ODVj",
+      "flags": {},
+      "type": 0,
+      "text": "Mantle of spell resistance (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTEzM2I4YjZhZThi",
+      "flags": {},
+      "type": 0,
+      "text": "Necklace of prayer beads (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTQyZDgwZTUwYjEw",
+      "flags": {},
+      "type": 0,
+      "text": "Periapt of proof against poison (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDc1NTMyMmZkMWRm",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of animal influence (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTgyNmIxYjE3NjBl",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of evasion (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDFkZDlhNzZhOWI2",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of feather falling (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTg2OTNlMTE1MDhh",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of free action (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDY5YTRmYzg2Njk3",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of protection (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzIxODFjOWRlOWQx",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of resistance (Roll a d10: 1-acid, 2-cold, 3-fire, 4-force, 5-lightning, 6-necrotic, 7-poison, 8-psychic, 9-radiant, 10-thunder) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWY1NWY5YjEyOWZi",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of spell storing (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjU3NzI3Nzg3MmU0",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of the ram (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWFhNjBkNzAwYzIz",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of X-ray vision (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTE4NTA3OGFkYzhh",
+      "flags": {},
+      "type": 0,
+      "text": "Robe of eyes (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzEwNTM0NGRkY2E4",
+      "flags": {},
+      "type": 0,
+      "text": "Rod of rulership (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGQ5YWZlYTA0NzI1",
+      "flags": {},
+      "type": 0,
+      "text": "Rod of the pact keeper, +2 (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWZmNjI4MWRiNGE1",
+      "flags": {},
+      "type": 0,
+      "text": "Rope of entanglement (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MThjMmQ2ZmY5NGVj",
+      "flags": {},
+      "type": 0,
+      "text": "Armor, +1 scale mail (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWVlOTkyZDI3NDUy",
+      "flags": {},
+      "type": 0,
+      "text": "Armor of resistance (scale mail) (Roll a d4 to determine type: 1-acid, 2-cold, 3-fire, 4-force) (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGM0MjI1MmY1Y2Uz",
+      "flags": {},
+      "type": 0,
+      "text": "Shield, +2 (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2U0MzMxODk4N2U3",
+      "flags": {},
+      "type": 0,
+      "text": "Shield of missile attraction (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTYwNWIxMzI4YzUy",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of charming (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzNkODRlZWZiZWU2",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of healing (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjM3NmUyYWU0OThi",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of swarming insects (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDEyOTEzNTk0NTNm",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of the woodlands (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmJjZTM5ZDVkYmI2",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of withering (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODc3ZjM2ZWY2ZWRi",
+      "flags": {},
+      "type": 0,
+      "text": "Stone of controlling earth elementals (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWIwYjBhY2ZlZGYz",
+      "flags": {},
+      "type": 0,
+      "text": "Sun blade (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGJlYTM3Nzc3ZDBj",
+      "flags": {},
+      "type": 0,
+      "text": "Sword of life stealing (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTYwZjNiOWIzY2E2",
+      "flags": {},
+      "type": 0,
+      "text": "Sword of wounding (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTE0YTE3NjI5MmVk",
+      "flags": {},
+      "type": 0,
+      "text": "Tentacle rod (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mjg0Y2NkMjk1MTA4",
+      "flags": {},
+      "type": 0,
+      "text": "Vicious weapon (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWJhZTMxZTgxMzg1",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of enemy detection (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDQxNTM2MDY3MTQy",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of fear (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDZjNGJlNjk1Zjky",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of fireballs (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzQ0NmVmMDRkY2E1",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of lightning bolts (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDZiNzk5OTA2YWUz",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of paralysis (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmQwNTBlNzczNGI2",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of the war mage, +2 (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDQzNjczYzJmNjdi",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of wonder (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGU2NTJhNzBlNzNm",
+      "flags": {},
+      "type": 0,
+      "text": "Wings of flying (R)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d99",
+  "replacement": true,
+  "displayRoll": false
+}

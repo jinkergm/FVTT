@@ -1,0 +1,933 @@
+{
+  "_id": "ZGM0YTVjMmY4NjJj",
+  "name": "Magic-Item-Table-H",
+  "sort": 270000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "MzA5ZDU5ZWYxN2Y5",
+      "flags": {},
+      "type": 0,
+      "text": "Weapon +3",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 10,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzU0ZmI1YjA0YzIw",
+      "flags": {},
+      "type": 0,
+      "text": "Amulet of the Planes",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        11,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGVlYTVkNzZiYWZm",
+      "flags": {},
+      "type": 0,
+      "text": "Carpet of Flying",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        13,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmE1M2FlNjQ0YWJh",
+      "flags": {},
+      "type": 0,
+      "text": "Crystal Ball (Very Rare Version)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        15,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWUyODllODg3YWNi",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Regeneration",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzI0MWI2OWRlNjVk",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Shooting Stars",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODZiMmQ1NDdhNzlm",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Telekinesis",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmU1NGIwZGZhNDIw",
+      "flags": {},
+      "type": 0,
+      "text": "Robe of Scintillating Colors",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        23,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDllYmZjZTU5NDZk",
+      "flags": {},
+      "type": 0,
+      "text": "Robe of Stars",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTdkOGNmNDVkNzJh",
+      "flags": {},
+      "type": 0,
+      "text": "Rod of Absorption",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        27,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTBhZTVhM2E5MDhi",
+      "flags": {},
+      "type": 0,
+      "text": "Rod of Alertness",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        29,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDE4ZDEyMDY1MDkw",
+      "flags": {},
+      "type": 0,
+      "text": "Rod of Security",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        31,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTBlZWZhYjFjNTMw",
+      "flags": {},
+      "type": 0,
+      "text": "Rod of the Pact Keeper +3",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGM4MzE0NzQ3MGVh",
+      "flags": {},
+      "type": 0,
+      "text": "Scimitar of Speed",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWU3MDBlMjMxOTU1",
+      "flags": {},
+      "type": 0,
+      "text": "Shield +3",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzJhMGE2MzZkMTc3",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of Fire",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        36,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWIyMWVjMTA2MTQ3",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of Frost",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        38,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjdjMDViMDM5YTMy",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of Power",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        40,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzE5M2U2ZGJlNjQz",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of Striking",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        42,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDFiOGVjNWEzMzlh",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of Thunder and Lightning",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        44,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2M0Y2Y0ZDY2OTlj",
+      "flags": {},
+      "type": 0,
+      "text": "Sword of Sharpness",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        46,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjEwY2I0M2RjODMx",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of Polymorph",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        48,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzZlNDEwNmRjOTdm",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of he War Mage +3",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODhjODBlNjc2MzJk",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine Armor (Half Plate)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjQ0OWI2MjhlZDc5",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine (Plate)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDYwOTQyNWRmYzAx",
+      "flags": {},
+      "type": 0,
+      "text": "Animated Shield",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmIyMGMyMjFlNDc1",
+      "flags": {},
+      "type": 0,
+      "text": "Belt of Fire Giant Strength",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDUwNzMzZTg4YjUw",
+      "flags": {},
+      "type": 0,
+      "text": "Belt of Frost/Stone Giant Strength",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjI5MjI0MzhhMWRm",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +1 Breastplate",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzcyMzAzODY0Nzdm",
+      "flags": {},
+      "type": 0,
+      "text": "Candle of Invocation",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjdlNjA3M2I0MGFi",
+      "flags": {},
+      "type": 0,
+      "text": "Armor, +2 Chain Mail",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDAwMjc5ODRiMGJl",
+      "flags": {},
+      "type": 0,
+      "text": "Armor, +2 Chain Shirt",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjAyOWEwNDE5Yjkw",
+      "flags": {},
+      "type": 0,
+      "text": "Dancing Sword",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzgzZDhjODAzOTk1",
+      "flags": {},
+      "type": 0,
+      "text": "Demon Armor",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWYyNjg3ZDFmMWRl",
+      "flags": {},
+      "type": 0,
+      "text": "Dragonscale Armor",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTIwZWU0NDFjOGE4",
+      "flags": {},
+      "type": 0,
+      "text": "Dwarven Plate",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDEwODYwMTdiNWE5",
+      "flags": {},
+      "type": 0,
+      "text": "Dwarven Thrower",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWY4MmJjNzIxZTQw",
+      "flags": {},
+      "type": 0,
+      "text": "Efreeti Bottle",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDE4MDIyNDBlOGU5",
+      "flags": {},
+      "type": 0,
+      "text": "Figurine of Wondrous Power",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDRkYjJjNzBjNjE4",
+      "flags": {},
+      "type": 0,
+      "text": "Frost Brand",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDZkZTI1YzkwNDg4",
+      "flags": {},
+      "type": 0,
+      "text": "Helm of Brilliance",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDNiYWJjYjdjMTJj",
+      "flags": {},
+      "type": 0,
+      "text": "Horn of Valhalla (Bronze)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzM1MWM0MDViZDk3",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the Bard (Anstruth Harp)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWQ4NGVjZmFhY2Q3",
+      "flags": {},
+      "type": 0,
+      "text": "Ioun Stone <%%91%%>Roll on the IounStone table<%%93%%>",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTAwYzM2MTQ3YTQ1",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +2, Leather",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjA0MWU3YzJiN2U2",
+      "flags": {},
+      "type": 0,
+      "text": "Manual of Bodily Health",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTllZWFjMmZiMjQ4",
+      "flags": {},
+      "type": 0,
+      "text": "Manual of Gainful Exercise",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTlhYjYwMzE5MWNj",
+      "flags": {},
+      "type": 0,
+      "text": "Manual of Golems",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2MyYzVhOWIyNzBm",
+      "flags": {},
+      "type": 0,
+      "text": "Manual of Quickness in Action",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDA1MWY4MTAzOGFh",
+      "flags": {},
+      "type": 0,
+      "text": "Mirror of Life Stealing",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzI2N2RjMzU3MGVl",
+      "flags": {},
+      "type": 0,
+      "text": "Nine Lives Stealer",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzhjNzRhYzU3NjAw",
+      "flags": {},
+      "type": 0,
+      "text": "Oathbow",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTA2ZTc2ZTA0ZmY4",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +2, Scale mail",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWQ3YWFkNjE4ODhj",
+      "flags": {},
+      "type": 0,
+      "text": "Spellguard Shield",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2Q3MGEzMzUwMDQ1",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +1, Splint",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWJiYmZjZDNlNWZl",
+      "flags": {},
+      "type": 0,
+      "text": "Armor of Resistance (Splint)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWVmZDM1NmNjZGU3",
+      "flags": {},
+      "type": 0,
+      "text": "Armor +1, Studded Leather",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjdmZTM4NmM0ZDA5",
+      "flags": {},
+      "type": 0,
+      "text": "Armor of Resistance (Studded Leather)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDZmM2I4Yzg1MzI1",
+      "flags": {},
+      "type": 0,
+      "text": "Tome of Clear Thought",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTdiZjhkZWM0ZmNl",
+      "flags": {},
+      "type": 0,
+      "text": "Tome of Leadership and Influence",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWQ0OTZkNjdjOGI2",
+      "flags": {},
+      "type": 0,
+      "text": "Tome of Understanding",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d88",
+  "replacement": true,
+  "displayRoll": false
+}

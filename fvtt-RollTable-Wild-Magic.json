@@ -1,0 +1,719 @@
+{
+  "_id": "NDVmZTU0OGQ0YTQ4",
+  "name": "Wild-Magic",
+  "sort": 140000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "description": "",
+  "results": [
+    {
+      "_id": "MjExZDcwYjk1M2M3",
+      "flags": {},
+      "type": 0,
+      "text": "Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzcyNDZjMDc3MWRl",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you can see any invisible creature if you have line of sight to it.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTQwYWE2MjE1OWU1",
+      "flags": {},
+      "type": 0,
+      "text": "A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDZjYTZmNjUwMTFh",
+      "flags": {},
+      "type": 0,
+      "text": "You cast fireball as a 3rd-level spell centered on yourself.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGYyMzg2NWU4MzIw",
+      "flags": {},
+      "type": 0,
+      "text": "You cast magic missile as a 5th-level spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzVmNmRhNjRkMGI1",
+      "flags": {},
+      "type": 0,
+      "text": "Roll a [[1d10]]. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        11,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Njk0YTZiMTcyMGNl",
+      "flags": {},
+      "type": 0,
+      "text": "You cast confusion centered on yourself.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        13,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmZkYTUzNDUwZGIx",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you regain 5 hit points at the start of each of your turns.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        15,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWE3OTdhZDNkMThi",
+      "flags": {},
+      "type": 0,
+      "text": "You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmU5ZTMxNmVjYjE5",
+      "flags": {},
+      "type": 0,
+      "text": "You cast grease centered on yourself.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDFlY2MwODEyYzRj",
+      "flags": {},
+      "type": 0,
+      "text": "Creatures have disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODdiYTI5N2EyN2M4",
+      "flags": {},
+      "type": 0,
+      "text": "Your skin turns a vibrant shade of blue. A remove curse spell can end this effect.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        23,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmNkODRiN2FjMDg5",
+      "flags": {},
+      "type": 0,
+      "text": "An eye appears on your forehead for the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODQ0NWE0NjZhYmNm",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, all your spells with a casting time of 1 action have a casting time of 1 bonus action.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        27,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2EyNjFmMDNkZWMx",
+      "flags": {},
+      "type": 0,
+      "text": "You teleport up to 60 feet to an unoccupied space of your choice that you can see.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        29,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2JhY2UwZjNjNjJj",
+      "flags": {},
+      "type": 0,
+      "text": "You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        31,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2NlZDE2MjFhNDIw",
+      "flags": {},
+      "type": 0,
+      "text": "Maximize the damage of the next damaging spell you cast within the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        33,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmE5YWM2NWIwNGJl",
+      "flags": {},
+      "type": 0,
+      "text": "Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        35,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWRmZjQzZTRiODg0",
+      "flags": {},
+      "type": 0,
+      "text": "[[1d6]] flumphs controlled by the DM appear in unoccupied spaces within 60 feet of you and are frightened of you. They vanish after 1 minute",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjYzZTYxNTc1Y2U3",
+      "flags": {},
+      "type": 0,
+      "text": "You regain [[2d10]] hit points",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        38,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDBkM2Q1ZmM3ZGQz",
+      "flags": {},
+      "type": 0,
+      "text": "You turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        40,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2Q2M2FkMzc1ODI5",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        42,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDU3NGFlNjMyODk1",
+      "flags": {},
+      "type": 0,
+      "text": "You cast levitate on yourself.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        44,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWJjZjI2MTUyZDJi",
+      "flags": {},
+      "type": 0,
+      "text": "A unicorn controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        46,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjE0OTM0MjYxNGYw",
+      "flags": {},
+      "type": 0,
+      "text": "You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        48,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzI2MDllYzFhYTA2",
+      "flags": {},
+      "type": 0,
+      "text": "A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to magic missile.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        50,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTEwZWIwYWNhM2Ni",
+      "flags": {},
+      "type": 0,
+      "text": "You are immune to being intoxicated by alcohol for the next [[5d6]] days",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        52,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWY2YjA5NjYxN2Ni",
+      "flags": {},
+      "type": 0,
+      "text": "Your hair falls out but grows back within 24 hours.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        54,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmUyNWZjZGExZjE5",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, any flammable object you touch that isn't being worn or carried by another creature bursts into flame.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        56,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjMyNmY0ZmE1NzNm",
+      "flags": {},
+      "type": 0,
+      "text": "You regain your lowest-level expended spell slot.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        58,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2M4OGI0ZjE3MmQz",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you must shout when you speak.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        60,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWI1NDgyNThkY2U4",
+      "flags": {},
+      "type": 0,
+      "text": "You cast fog cloud centered on yourself.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        62,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmQwYzFlZDM3YmQ4",
+      "flags": {},
+      "type": 0,
+      "text": "Up to three creatures you choose within 30 feet of you take [[4d10]] lightning damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        64,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDlkZjU1NWNjNWE4",
+      "flags": {},
+      "type": 0,
+      "text": "You are frightened by the nearest creature until the end of your next turn.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        66,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjVkYWJkNDgwMGU3",
+      "flags": {},
+      "type": 0,
+      "text": "Each creature within 30 feet of you becomes invisible for the next minute. The invisibility ends on a creature when it attacks or casts a spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        68,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmM5MDU2ZThkZmI4",
+      "flags": {},
+      "type": 0,
+      "text": "You gain resistance to all damage for the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        70,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTI0NmUyZDEwMzIz",
+      "flags": {},
+      "type": 0,
+      "text": "A random creature within 60 feet of you becomes poisoned for [[1d4]] hours.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        72,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzVlYjhkZmViMDZh",
+      "flags": {},
+      "type": 0,
+      "text": "You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is blinded until the end of its next turn.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        74,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MmFhMjFiNDg4MmFl",
+      "flags": {},
+      "type": 0,
+      "text": "You cast polymorph on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        76,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTdhY2E5ZWEwZWRm",
+      "flags": {},
+      "type": 0,
+      "text": "Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        78,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDc3ZjFhMmE2MTQw",
+      "flags": {},
+      "type": 0,
+      "text": "You can take one additional action immediately.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        80,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmY1OWZiYTNkZTU3",
+      "flags": {},
+      "type": 0,
+      "text": "\tEach creature within 30 feet of you takes [[1d10]] necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        82,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWFiMTY1MGJlNjQ5",
+      "flags": {},
+      "type": 0,
+      "text": "You cast mirror image.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        84,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTdkMDc4MmE3ZTM3",
+      "flags": {},
+      "type": 0,
+      "text": "You cast fly on a random creature within 60 feet of you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        86,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmQ1Y2ZiNDI3MTM5",
+      "flags": {},
+      "type": 0,
+      "text": "You become invisible for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        88,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDIzMDZkNzM3N2Yy",
+      "flags": {},
+      "type": 0,
+      "text": "If you die within the next minute, you immediately come back to life as if by the reincarnate spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        90,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTRjYmYxZjAwYTE5",
+      "flags": {},
+      "type": 0,
+      "text": "Your size increases by one size category for the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        92,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGE1NmVhZTU5MmI2",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to piercing damage for the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        94,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWExNDUxM2E2NzE1",
+      "flags": {},
+      "type": 0,
+      "text": "You are surrounded by faint, ethereal music for the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        96,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzRlMDdkMGFiODRj",
+      "flags": {},
+      "type": 0,
+      "text": "You regain all expended sorcery points.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        98,
+        99
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d99",
+  "replacement": true,
+  "displayRoll": false
+}

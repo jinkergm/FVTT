@@ -1,0 +1,1027 @@
+{
+  "_id": "Mjg1NGVlNTgxMjcy",
+  "name": "Magic-Item:-History",
+  "sort": 230000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "NjViNWNhYzRiNzNh",
+      "flags": {},
+      "type": 0,
+      "text": "Arcane This item was created for an ancient order of spellcaster and bears the order's symbol.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzZhNDYxYTEwZTQy",
+      "flags": {},
+      "type": 0,
+      "text": "Bane This item was created by the foes of a particular culture or kind of creature, if the Culture or creatures are still around, they might recognize the item and single out the bearer as an enemy.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzRhZjM4ZWVjNmIw",
+      "flags": {},
+      "type": 0,
+      "text": "Ornament This item was created to honor a special occasion. Inset Gemstones, Gold, or Platinum inlays, and gold or silver Filigree adorn its surface.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODJkNDE3M2JiN2I4",
+      "flags": {},
+      "type": 0,
+      "text": "Prophecy The item features in a prophecy: its bearer is destined to play a key role in future events. Someone else who wants to play that role might try to steal the item, or someone who want to prevent the prophecy from being fulfilled might try to kill the item's bearer.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2UyYzY4OGM1ZGM5",
+      "flags": {},
+      "type": 0,
+      "text": "Religious The items was used in religious ceremonies dedicated to a particular deity. It has holy symbols worked into the surfaces. The gods followers might try to persuade its owner to donate it to a temple, steal it for themselves, or celebrate its use by a member of the same faith.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Nzc5MmZjZDRkOWEw",
+      "flags": {},
+      "type": 0,
+      "text": "Sinister The item is linked to a deed of great evil, such as a massacre, or an assassination. It might have a name or be closely associated with a villain who used it. Anyone familiar with the item's history is likely to treat it and its owner with suspicion",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTE3YmZmYjY3NDFk",
+      "flags": {},
+      "type": 0,
+      "text": "Symbol of Power This item was once used as part of royal regalia or as a badge of high office. Its former owner or that person's descendants might desire it, or someone might mistakenly assume the current owner is the legitimate heir.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzY5NmZkNGEzZDU4",
+      "flags": {},
+      "type": 0,
+      "text": "Heroic A great hero once wielded this item. Anyone familiar with the item's history expects great deeds from the new owner.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTIzNTUzY2RiZTkw",
+      "flags": {},
+      "type": 0,
+      "text": "Disastrous. The item is linked to a name or lineage that fell to ruin and suffered constant misfortune. Anyone familiar with the item's history stays as far away from its new owner for fear of the item's notoriety.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWFhMjNiZmVjMDBi",
+      "flags": {},
+      "type": 0,
+      "text": "Entertaining. The item is noted as featuring prominently in a famous entertainers routines who wielded it during spectacular performances. Anyone familiar with its history is likely to enthusiastically insist its owner performs while in their presence, and become greatly disappointed if they fail to do so.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzVmMGJlMmI5YTll",
+      "flags": {},
+      "type": 0,
+      "text": "Formidable. The item is known to have been wielded by a hero of unrivaled skill. Anyone familiar with its history and who wishes for fame and fortunes will likely seek out and challenge the current owner whenever the opportunity presents itself.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGI2YjAyYWU3YTUy",
+      "flags": {},
+      "type": 0,
+      "text": "Generous. The item is known to have had multiple owners, all of whom gave it away after a certain amount of time to others as a means of fostering goodwill. Anyone familiar with this history expects the current owner to do the same, including individuals who may follow them closely in hopes of being the items next owner.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTNkNzJmMzMxMWEx",
+      "flags": {},
+      "type": 0,
+      "text": "Kleptocracy. The item is noted as being part of a government or organization known for its excessive abuses and criminality. Individuals familiar with the culture are loathe to do business with the current owner for fear of being cheated",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDBmMDIwNTE3MmI4",
+      "flags": {},
+      "type": 0,
+      "text": "Lovelorn. The item is noted as being a gift between beings who shared a well-admired connection. Anyone familiar with the tale views the current owner as a being well on their way towards finding true love, if they haven't already",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjZlM2IzZTI5OGZk",
+      "flags": {},
+      "type": 0,
+      "text": "Minimalist. The item is linked to a being or culture known to be sparse of material goods and short on words. Owners of the item who are especially gregarious or adorned in obvious displays of wealth are openly mocked by those familiar with the items former owner or culture.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWFhZjNmMTA2YmE4",
+      "flags": {},
+      "type": 0,
+      "text": "Opulent. The item is linked to a being or dynasty of great wealth. Descendants, relatives or members of this lineage may seek its return, willing to pay enormously. Those familiar with the being or dynasty assume the current owner to be a member of this lineage or receive its patronage, and assume they have access to great wealth.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzMyYjMwMmJjN2Fl",
+      "flags": {},
+      "type": 0,
+      "text": "Slaying. The item is thought to have been crucial in the final blow that brought down a being of immense power. Its presence is enough to instill fear and hatred in beings that revere and honor the memory of their fallen idol, and would gladly seek revenge on their behalf.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDBlMTA3MDYxNGQ4",
+      "flags": {},
+      "type": 0,
+      "text": "Symbol of Peace. The item is noted for being gifted as part of a lasting peace treaty between warring factions, cultures or nations. If the current owner of the item belongs to one of these factions, members of these groups take a peaceable approach to them. However if the possessor breaks this trust they become sworn enemies.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWYzMDFjNjA3OWQx",
+      "flags": {},
+      "type": 0,
+      "text": "Unique. The item was crafted by a being of great skill and is considered the finest work of its creator. Collectors, admirers of the creator or their descendants desire the item and are willing to go to great lengths to possess it.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjYyMzRjYzdlNTNj",
+      "flags": {},
+      "type": 0,
+      "text": "Unnatural*. The item is thought to have come from another plane of existence and is a source of extra-planar influence. Beings opposed to extra-planar incursions may aggressively wish to destroy the item. Conversely, beings with a penchant for extra-dimensional knowledge desire the item at all costs.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTAwY2RkMDc0ODRh",
+      "flags": {},
+      "type": 0,
+      "text": "Anthropomorphic Mice. The item is smaller than normal and is incredibly comfortable to wield, lined with soft furs or leathers even if it would normally not come with such trimmings. Cats are unusually excited in its presence.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTQ4NDkyZDY0Mjg0",
+      "flags": {},
+      "type": 0,
+      "text": "Bladeling. The items surface is rough and always causes discomfort. Metal portions of the item are impervious to rust.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjRkZjEwZDUzZWUy",
+      "flags": {},
+      "type": 0,
+      "text": "Bugbear. The item is slightly larger than normal and can be unwieldy. It is crafted of the most common of materials.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGU0ODBlNjQ5Njg4",
+      "flags": {},
+      "type": 0,
+      "text": "Centaur. The item is adorned with symbols of nature: leaves, vines, stars, and the like. No matter its condition it always has a faint odor of horses.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzI5MzJiODA2OThm",
+      "flags": {},
+      "type": 0,
+      "text": "Cloud Giant. The item is slightly larger than normal and appears to shimmer when seen from the corner of the eye.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        27,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmYwMWFmODRhZDk1",
+      "flags": {},
+      "type": 0,
+      "text": "Coautl. The item is half the normal weight and inscribed with feathered wings, suns and other symbols of good. It is adorned with small trinkets and ornamental trophy parts of various evil humanoid creatures. Fiends find the item's presence repulsive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmYzYjYxOGVlMjkx",
+      "flags": {},
+      "type": 0,
+      "text": "Demilich. The item incorporates imagery of death such as bones and skulls, and it might be crafted from parts of corpses. It feels exceptionally heavy and cold to the touch.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTE4MWRiYWI4Zjdi",
+      "flags": {},
+      "type": 0,
+      "text": "Demon. The item is made of black iron or horn inscribed with runes, and any cloth or leather components are crafted from the hide of fiends. It is warm to the touch and features leering faces or vile runes engraved on its surface. Celestials find the item's presence repulsive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDg3MjY4NmQzZTMy",
+      "flags": {},
+      "type": 0,
+      "text": "Demon Prince. The item is made of black iron or horn inscribed with runes, and any cloth or leather components are crafted from the hide of fiends. It is warm to the touch and appears exceptionally regal and intimidating. It grows slightly warm when within 120 feet of a fiendish creature native to the Abyss. Celestials find the item's presence repulsive",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjIzNTkyMjNkMWQy",
+      "flags": {},
+      "type": 0,
+      "text": "Devil. The item is made of black iron or horn inscribed with runes, and any cloth or leather components are crafted from the hide of fiends. It is warm to the touch and studded with precious gems and other prized materials. Celestials find the item's presence repulsive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTUxNTU3YTA5NGUw",
+      "flags": {},
+      "type": 0,
+      "text": "Doppelganger. The item appears unexceptionally mundane. When seen from the corner of the eye, the item appears to change (shape and/or color).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Nzg2NWViNWViOTRh",
+      "flags": {},
+      "type": 0,
+      "text": "Dragonborn. This item is made from scales and talons of a slain dragon of ill repute. Perhaps it incorporates precious metals and gems from the dragon's hoard. It grows slightly warm when within 120 feet of a dragon.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTdhYjNkMTMzZGE5",
+      "flags": {},
+      "type": 0,
+      "text": "Dragon, Shadow. The item is made of the scales and talons shed by a dragon of shadow. It is difficult to see in dim light and nearly impossible to see in magical darkness. It might function poorly, or disintegrate, if exposed to sunlight for 1 minute or more.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGNiNzdiOWMxNWE3",
+      "flags": {},
+      "type": 0,
+      "text": "Duergar. The item is durable and made of black iron or hard stone with Dwarven runes worked into its design. Nonduergar dwarves find the items presence repulsive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        37,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjUzMjc3MGJhZTdh",
+      "flags": {},
+      "type": 0,
+      "text": "Elf, Aquatic. Lustrous fish scales replace leather or cloth on this item, and metal portions are instead crafted from seashells and worked coral as hard as any metal. The item is half the normal weight and feels cool to the touch.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjE4NmYxMzBkYjg0",
+      "flags": {},
+      "type": 0,
+      "text": "Elf, High. The item is exquisitely crafted from the finest materials and glows with a pale radiance in moonlight, shedding dim light in a 5-foot radius. Any metal in the item is silver or mithral, rather than iron or steel.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODBkMjYwYzUzNmM1",
+      "flags": {},
+      "type": 0,
+      "text": "Fire Giant. The item is slightly oversized and feels warm to the touch. It might be crafted from stone and black iron and studded with finely polished rock.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTUwZmQwMTgxNTFk",
+      "flags": {},
+      "type": 0,
+      "text": "Fomorian. This item might be crafted from stone and black iron. Any cloth or leather elements are studded with finely polished rock. Shades of black and purple are prominent colors.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODVmYTA1YTJmODI4",
+      "flags": {},
+      "type": 0,
+      "text": "Genasi, Air. The item is half the normal weight and feels hollow. If it's made of fabric, it is diaphanous.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGIzYTRkZWRiNThi",
+      "flags": {},
+      "type": 0,
+      "text": "Genasi, Earth. This item might be crafted from stone. Any cloth or leather elements are studded with finely polished rock.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGFlYTVlYjliOTZh",
+      "flags": {},
+      "type": 0,
+      "text": "Genasi, Fire. This item is warm to the touch and any metal parts are crafted from black iron. Sigils of flames cover its surface. Shades of red and orange are prominent colors.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mzk2N2Y3NTE5OTk0",
+      "flags": {},
+      "type": 0,
+      "text": "Gnoll. The item is made to look intimidating and frightful, being festooned with skulls and other humanoid skeletal parts. Portions of metal are instead made of bone as hard as any metal. Bite marks are prominent.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTY4NjU4N2Y3MWRh",
+      "flags": {},
+      "type": 0,
+      "text": "Githyanki. The item is incredibly comfortable to wield and any metal in the item is silver, rather than iron or steel. Illithid's find the item's presence repulsive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Yjk2NTFlMDc5YTVi",
+      "flags": {},
+      "type": 0,
+      "text": "Githzerai. The item is crafted to appear nearly symmetrical and is inscribed with etched patterns that are soothing to behold. Illithid's find the item's presence repulsive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzkwZTUzMjZkZGQ4",
+      "flags": {},
+      "type": 0,
+      "text": "Gnome, Deep (Svirfneblin). The item is slightly smaller than normal and might be crafted from stone. Any cloth or leather elements are studded with finely polished rock. The item is difficult to see in dim light.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        49,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzQ4ZWQ2ZmU4M2I5",
+      "flags": {},
+      "type": 0,
+      "text": "Yugoloth. The item is rather bland looking, consisting of dark, monochromatic materials. Barely discernible, etched somewhere not easily noticed is the small imprint of a snarling jackal's head.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjdlMzc4ODFhOTcy",
+      "flags": {},
+      "type": 0,
+      "text": "Yuan-ti. The item is cold to the touch and leather or cloth portions are instead crafted from snakeskin. Metal portions are overlaid with spiral etchings.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzgwNzQ5OTkxZTIy",
+      "flags": {},
+      "type": 0,
+      "text": "Warforged. The item is exceptionally sturdy and incorporates mechanical components, even if these aren't essential to the item's function. Metallic surfaces are also highly reflective to the point of easily being mistaken for mirrored glass.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M2Q4ZDVmOTJhNmNm",
+      "flags": {},
+      "type": 0,
+      "text": "Vampire. The item is exquisitely beautiful, yet somewhat unsettling to behold. Animals are loathe to touch it. Occasionally, the item fails to cast a reflection in mirrored surfaces.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        54,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjRhMTQ2MmQ4N2Vm",
+      "flags": {},
+      "type": 0,
+      "text": "Tiefling. The item is crafted from the finest materials but appears ordinary and looks mundane. It grows slightly warm when within 120 feet of a fiendish creature native to the Nine Hells.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTFmY2FlZjlmYWMx",
+      "flags": {},
+      "type": 0,
+      "text": "Goblin. The item is slightly smaller than normal and crudely made. It is adorned with skulls and other minor trophies. Portions of metal are instead made of bone or stone as hard as any metal. Comical and inappropriate writings and personal notes are etched over the entirety of its surface.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGE4ZTZkZTZjN2Rm",
+      "flags": {},
+      "type": 0,
+      "text": "Goliath. The item is slightly larger than normal. It is durable and might be crafted from stone. Any cloth or leather elements are studded with finely polished rock.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        58,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODRkZGFjN2RhNDcx",
+      "flags": {},
+      "type": 0,
+      "text": "Grung. The item is slightly smaller than normal and somewhat translucent. Portions of metal are instead made of bone or stone as hard as any metal. The item has tiny etchings of insects carved into its surface.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzI0N2Y0NjgxYjBj",
+      "flags": {},
+      "type": 0,
+      "text": "Hag. The item is crafted from a wide variety of odd materials and features a good deal of the bones of humanoid creatures. Children find the item's presence repulsive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2JkNTgzMjEwNmNj",
+      "flags": {},
+      "type": 0,
+      "text": "Halfling. The item is slightly smaller than normal but comfortable to wield. It appears mundane and unexceptional.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWNkOGVlMTc3ODQy",
+      "flags": {},
+      "type": 0,
+      "text": "Illithid. The item always feels cool, oily and somehow wrong when held or wielded. When seen from the corner of the eye, it appears to be writhing. Those that carry it tend to have vivid, disturbing nightmares. Githyanki and githzerai find the item's presence repulsive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTgwZmE5MzBhZjlm",
+      "flags": {},
+      "type": 0,
+      "text": "Hengeyokai. The item is very comfortable to wield and is lined with soft furs or leathers even if it would normally not come with such trimmings. It is easily mistaken for an item of a similar type.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzlmMjExZGJmMjk2",
+      "flags": {},
+      "type": 0,
+      "text": "Kobold. The item is smaller than normal. It also incorporates all manner of items, bones, trinkets and mechanical parts that are clearly non-essential to its functioning, which occasionally disrupt its use.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTRlNzAwMjBjOWVl",
+      "flags": {},
+      "type": 0,
+      "text": "Lizardfolk. The item is crudely made and portions of metal are instead made of bone or stone as hard as any metal. Markings and symbols are etched over the entirety of its surface and the item is painted with bright and garish coloring.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Njg4MDMyMWFhZmM4",
+      "flags": {},
+      "type": 0,
+      "text": "Lycanthrope. The item is crudely made but nevertheless exceptionally comfortable to wield. It is adorned with symbols of the moon in various stages.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTU1ZDA1Nzg2MDFi",
+      "flags": {},
+      "type": 0,
+      "text": "Merfolk. The item is cool to the touch and lustrous fish scales replace leather or cloth while metal portions are instead crafted from seashells and worked coral as hard as any metal, otherwise the item appears unexceptionally mundane.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDNkMDQ4ODcwNzli",
+      "flags": {},
+      "type": 0,
+      "text": "Minotaur. The item is crafted to appear nearly symmetrical and circular sigils are worked into its surface. Its evidently a master craftsman's effort.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjZjZjcwOWE2ZmVj",
+      "flags": {},
+      "type": 0,
+      "text": "Oni. The item is made to look intimidating and frightful, being festooned with skulls and other humanoid skeletal parts. Portions of metal are instead made of bone as hard as any metal. Children find the item's presence repulsive.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGFhYjM4NTI5MDE1",
+      "flags": {},
+      "type": 0,
+      "text": "Orc. The item is crudely made and appears intimidating, being festooned with skulls and other minor trophies. Portions of metal are instead made of bone or stone as hard as any metal. Markings and symbols are etched over the entirety of its surface.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGY5MWJiYWU5ODA0",
+      "flags": {},
+      "type": 0,
+      "text": "Rakshasa. The item is crafted from the finest materials but is awkward to wield as it is fashioned to produce maximum effect while being held in a position opposite to its more familiar design. It always feels warm when wielded by a creature with a good alignment.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2E1YzFhYTAwMjRk",
+      "flags": {},
+      "type": 0,
+      "text": "Sahuagin. The item is cold to the touch and lustrous fish scales replace leather or cloth while metal portions are instead crafted from seashells and worked coral as hard as any metal. Bizarre runes cover every inch of the items surface and the item always feels warm to the touch of devout followers of a good-aligned deity.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDA0OGFjNTQ5NmJj",
+      "flags": {},
+      "type": 0,
+      "text": "Shade. The item is made entirely of dark black materials and is difficult to see in dim light and nearly impossible to see in magical darkness. It might function poorly, or disintegrate, if exposed to sunlight for 1 minute or more.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjYxODQ4YzM3ZmVi",
+      "flags": {},
+      "type": 0,
+      "text": "Shardmind. Metal portions of this item are instead made of hard crystalline. It grows slightly warm when within 120 feet of an active portal to another plane of existence.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWE3MTdlMzFkMzRi",
+      "flags": {},
+      "type": 0,
+      "text": "Slaadi. The item is crudely made and metal portions are instead made of hard stone and the bones of humanoid creatures. Skulls and polished rocks adorn the item with strange claw markings.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2E1MDhjYjA0YTFi",
+      "flags": {},
+      "type": 0,
+      "text": "Spirit Folk. This item is half the normal weight and appears opaque in dim and very bright light.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWJjOTg3MzA2ZWZj",
+      "flags": {},
+      "type": 0,
+      "text": "Thri-kreen. Metal portions of this item are replaced by hard chitinous shells from large insectoid creatures. This item always feels somewhat awkward to wield.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmQ2MWJiMThlZmNm",
+      "flags": {},
+      "type": 0,
+      "text": "Tabaxi. The item is very comfortable to wield and is lined with soft furs or leathers even if it would normally not come with such trimmings. Mice and other small rodents are loathe to come in contact with the item.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d79",
+  "replacement": true,
+  "displayRoll": false,
+  "description": ""
+}

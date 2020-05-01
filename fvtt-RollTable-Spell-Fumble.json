@@ -1,0 +1,635 @@
+{
+  "_id": "ZGVmZjk4OTQyM2Ex",
+  "name": "Spell-Fumble",
+  "sort": 10000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "description": "",
+  "results": [
+    {
+      "_id": "YzM0NTJhZWQxZGFj",
+      "flags": {},
+      "type": 0,
+      "text": "Spell fizzles",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 10,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjcyMzdhNmI4M2E0",
+      "flags": {},
+      "type": 0,
+      "text": " Spell effectiveness (range, duration, AoE, damage, etc.) is reduced by 50%.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmMwYzM3NTQ4ZTU0",
+      "flags": {},
+      "type": 0,
+      "text": "Spell is delayed [[1d4]] rounds – after which effect happens",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        14,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDAyNzc4YmRjZjBk",
+      "flags": {},
+      "type": 0,
+      "text": "Caster cast as another random spell of same level he has prepared instead.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        17,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWRiYjU2NGM3ZjJj",
+      "flags": {},
+      "type": 0,
+      "text": "Spell malfunctions. Caster takes [[1d4]] damage per level of the spell cast",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        20,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWM2Y2I4MzZkZGY2",
+      "flags": {},
+      "type": 0,
+      "text": "Water flows from the casters hand for 1d4 rounds. The flow is equal to a garden hose on full blast.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        23,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OThiZmMxZWRkZmU5",
+      "flags": {},
+      "type": 0,
+      "text": "Caster gets all Sorcerer Points back.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        26,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzRmM2Y5NGZiMDMy",
+      "flags": {},
+      "type": 0,
+      "text": "Spell effect is creating gems instead: Caster creates 1d4 Gems worth 100 GP each",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        29,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjMzOTcwZTJhM2Zh",
+      "flags": {},
+      "type": 0,
+      "text": "[[1d4]] 10x10x10 feet stone spires shoot up from the ground.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        32,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Yjk2OTU4MjBmYjBm",
+      "flags": {},
+      "type": 0,
+      "text": "Spell effect is creating magic gold instead: Caster creates 1d6x100 GP shattered around the ground in a 10 feet circle",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        35,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDMzYTY0MDA4YzE4",
+      "flags": {},
+      "type": 0,
+      "text": "Random party member is stunned for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        38,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGNlOWFkMmMyNDgz",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts Magic Missiles instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        41,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjgxZjJhODE0MzRh",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts Fog cloud spell instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        44,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjFjNzFkOTQ1NTY4",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts Fly instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        47,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YThhMGVhMzhjZjYz",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts Invisibility Spell instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        50,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y2FmOWZjODBiNDU0",
+      "flags": {},
+      "type": 0,
+      "text": "Area in a 200 foot radius is Silenced (like the silence Spell).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        53,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWUwZmEzMWVkZmM0",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts Anti Magic Field 50 feet radius instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        55,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NjljNjYyZjQxOWQ0",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts Darkness 50 feet radius instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        58,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTYyZjMyZWE1ZWY4",
+      "flags": {},
+      "type": 0,
+      "text": "Target grows one size category for the next 24 hours",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        61,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDkwMGNiM2NmYjIw",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts Fireball instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        64,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YmI1MDg5NjA0YWFj",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts Lightning Bolt instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        67,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTcwYjBiMWU4ZThi",
+      "flags": {},
+      "type": 0,
+      "text": "Blackout: Caster falls face down and is considered prone for the next 1d4 rounds",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        70,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjQ1ZjgzOWI5NGQx",
+      "flags": {},
+      "type": 0,
+      "text": "Caster is teleported 30 feet away in a random direction. (can not be into solid mass)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        73,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NTZkOTlhMTMzNjBh",
+      "flags": {},
+      "type": 0,
+      "text": "Random party member is teleported 30 feet away (cannot be into solid mass).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        76,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDdiZmY3MWQwZDBj",
+      "flags": {},
+      "type": 0,
+      "text": "Caster is stunned for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        79,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjVmOTg4YWI4ZGVi",
+      "flags": {},
+      "type": 0,
+      "text": "Caster is blinded for 1d4 rounds",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        82,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGIyODg1NzM0ODNj",
+      "flags": {},
+      "type": 0,
+      "text": "Caster is paralyzed for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTkyYjU1YjRhZTcw",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts Jump instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MzNlMTRmMGEyYzYx",
+      "flags": {},
+      "type": 0,
+      "text": "Caster casts False Life instead",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWQ1OTNlYmMzOWEz",
+      "flags": {},
+      "type": 0,
+      "text": "Positive – You open a momentary portal to the Positive Energy Plane and are accosted by a wave of positive energy that heals the caster and anyone within 10 feet 1d6+1 HP per two caster levels, minimum 1d6+1.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZTIyZTZmYTM1OGMw",
+      "flags": {},
+      "type": 0,
+      "text": "Air – You open a momentary portal to the Plane of Air and are accosted by a howling blast of air that deals 1d6+2 of thunder damage for every two caster levels, minimum 1d6+2, to you and everyone within 10 feet of you. No save",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Yzc5NzFiODFhMmMw",
+      "flags": {},
+      "type": 0,
+      "text": "Earth – You open a momentary portal to the Plane of Earth. A large, irregular chunk of stone materializes and explodes near you and fragments damages you and everyone in a random 10 feet direction (roll 1d8). Roll a 1d6+3 of fragment damage per two caster levels, minimum 1d6+3. No Save",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmVlZDc5YWNkYTU3",
+      "flags": {},
+      "type": 0,
+      "text": "Water – You open a momentary portal to the Plane of Water. You and everyone else within 10 feet is hit by a sudden torrent of pure hot water from above. You and everyone within 10 feet of you are burned. Roll 1d8+2 of fragment damage per two caster levels, minimum 1d8+2. (the drenching itself may cause side effects: e.g. if you are holding a torch, parchment etc.). No save",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGFmZjQ4ZDdkODlk",
+      "flags": {},
+      "type": 0,
+      "text": "Fire – You open a momentary portal to the Plane of Fire in the ground and are accosted by gout of flame that deals a 2d4+2 of fire damage to you and everyone within 5 feet of you for every two caster levels, minimum one. No save",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDNiNTU5Y2YyZDdl",
+      "flags": {},
+      "type": 0,
+      "text": "Negative – You open a momentary portal to the Negative Energy Plane and are accosted by a wave of negative energy. Blast deals 1d10 damage per two caster levels to anyone within 20 feet of caster, minimum 1d10. ",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjUyMjJkYzgwOWJl",
+      "flags": {},
+      "type": 0,
+      "text": "Lesser Arcane magic shock: Caster loses 50% of all spells per level for the rest of the day",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NGUzNjY4OWQ2MTYz",
+      "flags": {},
+      "type": 0,
+      "text": "Greater Arcane magic shock: Caster loses all spells for the rest of the day",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODMwZTI5NjVmZTZm",
+      "flags": {},
+      "type": 0,
+      "text": "Spell backfires as energy blast. Caster is reduced to 10% of normal full HP – no save",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTYzNzhkZmI5MzY1",
+      "flags": {},
+      "type": 0,
+      "text": "Spell implodes in casters mind. Caster is reduced to 1 HP – no save",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2FhYzc1YWVhNzY0",
+      "flags": {},
+      "type": 0,
+      "text": "A random party member is target of spell instead. If it is a damage spell treat hit as critical spell hit (x2 damage)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        98,
+        99
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OWJkMjQ4NTBhMDkw",
+      "flags": {},
+      "type": 0,
+      "text": "Spell target caster self. If it is a damage spell treat hit as critical spell hit (x2 damage). If caster already was target of spell it fails and player reroll again 2 times.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MTBlOTc5NjRjMTk1",
+      "flags": {},
+      "type": 0,
+      "text": "Sudden rift in the Weave – spell energy is consuming casters life essence: Reduced to 0 HP, Loses all prepared spells for rest of day. Caster ages 1d10 years.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjRjZGQ2ZGMzYjUx",
+      "flags": {},
+      "type": 0,
+      "text": "Caster is exposed to fatal shadow weave magical attack. Reduced to 0 HP, with one death save failure, Caster ages 1d6 years",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        102,
+        102
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NzAzYmY0ZDc5ZTcx",
+      "flags": {},
+      "type": 0,
+      "text": "A unicorn controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        103,
+        104
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d104",
+  "replacement": true,
+  "displayRoll": false
+}

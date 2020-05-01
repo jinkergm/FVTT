@@ -1,0 +1,438 @@
+{
+  "_id": "ZDg2MGMzNjZlNzY3",
+  "name": "Magic-Item-Table-C",
+  "sort": 170000,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "MzFhMGFkZGQzYmUx",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Health, Superior",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 15,
+      "range": [
+        1,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YWI2YzFkN2U5MDZj",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (4th Level)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 7,
+      "range": [
+        16,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjM4MTMwMzQ4MjI5",
+      "flags": {},
+      "type": 0,
+      "text": "Ammunition +2",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        23,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDlhOWM4Zjg4ZDgz",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Clairvoyance",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        28,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YzhjYTgwMTdhYzA2",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Diminution",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        33,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGNiNjUxZjdhOWU1",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Gaseous Form",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        38,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWNjZDg3YjYwOGY3",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Frost Giant Strength",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        43,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDZjOWJhZWM5YWRm",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Stone Giant Strength",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        48,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDk4NWE2NzhlMTc2",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Heroism",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        53,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2ZiMDZmNzc4Njdk",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Invulnerability",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        58,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTlhMWQzN2M0ODY2",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Mind Reading",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        63,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N2MwMzhiYjkyZWU1",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (5th Level)",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 5,
+      "range": [
+        68,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NDJkMDNhYWQ1MTE4",
+      "flags": {},
+      "type": 0,
+      "text": "Elixir of Health",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        73,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjU1ZTE1ZjlkOTgz",
+      "flags": {},
+      "type": 0,
+      "text": "Oil of Etherealness",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        76,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ODRjMGVmN2EyMjRk",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Fire Giant Strength",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        79,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDJmMTAwYmM2Mzcw",
+      "flags": {},
+      "type": 0,
+      "text": "Quaal's Feather Token",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        82,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MDExNzRjOTE1NWVi",
+      "flags": {},
+      "type": 0,
+      "text": "Scroll of Protection",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 3,
+      "range": [
+        85,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZDcyNGE1NDEyMTVh",
+      "flags": {},
+      "type": 0,
+      "text": "Bag of Beans",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        88,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZmFjZWUwOTcxYWM3",
+      "flags": {},
+      "type": 0,
+      "text": "Bead of Force",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 2,
+      "range": [
+        90,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWNkY2QwMTcyOTE3",
+      "flags": {},
+      "type": 0,
+      "text": "Chime of Opening",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTMxM2Y4MTI5YTkw",
+      "flags": {},
+      "type": 0,
+      "text": "Decanter of Endless Water",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OTgxMDE5NzFjNjM3",
+      "flags": {},
+      "type": 0,
+      "text": "Eyes of Minute Seeing",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MjEwM2I3YTUzOGM3",
+      "flags": {},
+      "type": 0,
+      "text": "Folding Boat",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MWU4MmJkNzRhN2Fh",
+      "flags": {},
+      "type": 0,
+      "text": "Heward's Handy Haversack",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZWM1NDEyNjA4MTk0",
+      "flags": {},
+      "type": 0,
+      "text": "Horseshoes of Speed",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjIwZmU0MGNlN2Q1",
+      "flags": {},
+      "type": 0,
+      "text": "Necklace of Fireballs",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NWU5NzgyMTM4YzMw",
+      "flags": {},
+      "type": 0,
+      "text": "Periapt of Health",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YjI4ODAwZmFhODcx",
+      "flags": {},
+      "type": 0,
+      "text": "Sending Stones",
+      "img": "",
+      "collection": null,
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false
+}
