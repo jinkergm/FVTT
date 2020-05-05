@@ -1,0 +1,425 @@
+{
+  "name": "Treasure Hoard: Challenge 5—10",
+  "sort": 294454,
+  "flags": {
+    "exportSource": {
+      "world": "kiltore-roll20",
+      "system": "dnd5e",
+      "coreVersion": "0.5.5",
+      "systemVersion": 0.88
+    }
+  },
+  "results": [
+    {
+      "_id": "41hcHagU9wWno8AW",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 250 gp art objects | Roll once on Magic Item Table H.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wyXJ6mqpCCFFMrhE",
+      "flags": {},
+      "type": 0,
+      "text": "— | —",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pXXX3giFmLUmDmdp",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 25 gp art objects | —",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kVOS2iqDoATHJrhJ",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 50 gp gems | —",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        11,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MM2inLscm0SGujg7",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 100 gp gems | —",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        17,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0Y6jHIi0qf5IRjTS",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 250 gp art objects | —",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        23,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QEuXsnE0kpattvmk",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 25 gp art objects | Roll 1d6 times on Magic Item Table A.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        29,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xe1iBLur9G1DIiaU",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 50 gp gems | Roll 1d6 times on Magic Item Table A.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1XCCjvLb7rCIza1m",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 100 gp gems | Roll 1d6 times on Magic Item Table A.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        37,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iCxBuD3eBCGfeK3a",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 250 gp art objects | Roll 1d6 times on Magic Item Table A.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        41,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "35EkVzkJCeHsbHPW",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 25 gp art objects. | Roll 1d4 times on Magic Item Table B.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        45,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZPsJDQe6VoMcUrIS",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 50 gp gems | Roll 1d4 times on Magic Item Table B.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        50,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rBnrKgJnLvS6Ztqu",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 100 gp gems | Roll 1d4 times on Magic Item Table B.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        55,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "scnDkGsDtinhYdEv",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 250 gp art objects | Roll 1d4 times on Magic Item Table B.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tReZeg6awDt24tLw",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 25 gp art objects | Roll 1d4 times on Magic Item Table C.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        64,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DLdWXFBJnwhyfohv",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 50 gp gems | Roll 1d4 times on Magic Item Table C.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        67,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZjfVWvZhSl87I1Ug",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 100 gp gems | Roll 1d4 times on Magic Item Table C.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9D8fKNr9qPrcoOwT",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 250 gp art objects | Roll 1d4 times on Magic Item Table C.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DzCOD0J7vQzBdPlX",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 25 gp art objects | Roll once on Magic Item Table D.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jrnzIZX8lcuFgc7R",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 50 gp gems | Roll once on Magic Item Table D.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lprog5P2adPJvcph",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 100 gp gems | Roll once on Magic Item Table D.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "nzrCR3XREPJuOH9r",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 250 gp art objects | Roll once on Magic Item Table D.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ddd4rPdh6zLSnzqT",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 25 gp art objects | Roll 1d4 times on Magic Item Table F.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8q1sEtsc2Se0Jsxw",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 50 gp gems | Roll 1d4 times on Magic Item Table F.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eePB71NS86XplgWK",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 100 gp gems | Roll 1d4 times on Magic Item Table F.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vZKkP2r7X1DZfe3r",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 250 gp art objects | Roll 1d4 times on Magic Item Table F.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "IM5Ys6WpnoQRqjsP",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 100 gp gems | Roll 1d4 times on Magic Item Table G.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OmWXHomCTDzABZmj",
+      "flags": {},
+      "type": 0,
+      "text": "2d4 (5) 250 gp art objects | Roll 1d4 times on Magic Item Table G.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CGHTsTP3cVlomPdk",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 (10) 100 gp gems | Roll once on Magic Item Table H.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "d100",
+  "replacement": false,
+  "displayRoll": true,
+  "_id": "eY5mt9XaPnZi1ClX",
+  "description": ""
+}
